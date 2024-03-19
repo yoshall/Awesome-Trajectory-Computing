@@ -8,7 +8,7 @@ Welcome to our carefully curated collection of **Deep Learning Methods and Found
 
 <img src="./Picture/Trajectory_Overview.gif" width = "900" align=center>
 
-By [Citymind LAB](https://citymind.top)![alt citymind](./Picture/citymind.png), [HKUST(GZ)](https://www.hkust-gz.edu.cn/)![alt hkust-gz](./Picture/hkust-gz.png).
+By [Citymind LAB](https://citymind.top)<img src="./Picture/citymind.png" alt="图标" style="width: 20px; height: 20px;">, [HKUST(GZ)](https://www.hkust-gz.edu.cn/)<img src="./Picture/hkust-gz.png" alt="图标" style="width: 20px; height: 20px;">.
 
 Check out our comprehsensive tutorial paper:
 > *Deep Learning for Trajectory Data Management and Mining: A Survey and Beyond.* <br/> Wei Chen, Yuxuan Liang†, Yuanshao Zhu, Yanchuan Chang, Kang Luo, Haomin Wen, Lei Li, Yanwei Yu, Qingsong Wen, Chao Chen, Kai Zheng, Yunjun Gao, Xiaofang Zhou, Fellow, IEEE, Yu Zheng, Fellow, IEEE. [[Link](#)]
