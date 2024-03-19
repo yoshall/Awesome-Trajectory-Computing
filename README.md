@@ -83,38 +83,39 @@ ____
 
 * [Deep Learning for Trajectory Data Management](#deep-learning-for-trajectory-data-management)
     * [Pre-Processing](#pre-processing)
-        * [Simplification]
-        * [Recovery]
-        * [Map-Matching]
+        * [Simplification](#simplification)
+        * [Recovery](#recovery)
+        * [Map-Matching](#map-matching)
     * [Storage](#storage)
-        * [Storage Database]
-        * [Index & Query]
+        * [Storage Database](#storage)
+        * [Index & Query](#index--query)
     * [Analytics](#analytics)
-        * [Similarity Measurement]
-        * [Cluster Analysis]
+        * [Similarity Measurement](#similarity-measurement)
+        * [Cluster Analysis](#cluster-analysis)
     * [Visualization](#visualization)
-    * [Recent advances in LLMs for trajectory management]
+    * [Recent advances in LLMs for trajectory management](#recent-advances-in-llms-for-trajectory-management)
 * [Deep Learning for Trajectory Data Mining](#deep-learning-for-trajectory-data-mining)
     * [Trajectory-related Forecasting](#trajectory-related-forecasting)
-        * [Location Forecasting]
-        * [Traffic Forecasting]
+        * [Location Forecasting](#location-forecasting)
+        * [Traffic Forecasting](#traffic-forecasting)
     * [Trajectory-related Recommendation](#trajectory-related-recommendation)
-        * [Travel Recommendation]
-        * [Friend Recommendation]
+        * [Travel Recommendation](#travel-recommendation)
+        * [Friend Recommendation](#friend-recommendation)
     * [Trajectory-related Classification](#trajectory-related-classification)
-        * [Travel Mode Identification]
-        * [Trajectory-User Linking]
-        * [Other Perspectives]
+        * [Travel Mode Identification](#travel-mode-identification)
+        * [Trajectory-User Linking](#trajectory-user-linking)
+        * [Other Perspectives](#other-perspectives)
     * [Travel Time Estimation](#travel-time-estimation)
-        * [Trajectory-based]
-        * [Road-based]
-        * [Other Perspectives]
+        * [Trajectory-based](#trajectory-based)
+        * [Road-based](#road-based)
+        * [Other Perspectives](#other-perspectives-1)
     * [Anomaly Detection](#anomaly-detection)
-        * [Offline Detection]
-        * [Online Detection]
+        * [Offline Detection](#offline-detection)
+        * [Online Detection](#online-detection)
     * [Mobility Generation](#mobility-generation)
-        * [Macro-dynamic]
-        * [Micro-dynamic]
+        * [Macro-dynamic](#macro-dynamic)
+        * [Micro-dynamic](#micro-dynamic)
+    * [Recent advances in LLMs for trajectory mining](#recent-advances-in-llms-for-trajectory-mining)
 <img src="./Picture/Taxonomy.png" width = "800" align=center>
 
 
@@ -122,28 +123,121 @@ ____
 
 #### Pre-Processing
 
+##### Simplification
+
+coming soon
+
+##### Recovery
+
+coming soon
+
+##### Map-Matching
+
+coming soon
+
 #### Storage
+
+##### Storage Database
+
+coming soon
+
+##### Index & Query
+
+coming soon
 
 #### Analytics
 
-### Visualization
+##### Similarity Measurement
+
+coming soon
+
+##### Cluster Analysis
+
+coming soon
+
+#### Visualization
+
+coming soon
 
 #### Recent advances in LLMs for trajectory management
+
+coming soon
 
 ### Deep Learning for Trajectory Data Mining
 
 #### Trajectory-related Forecasting
 
+##### Location Forecasting
+
+coming soon
+
+##### Traffic Forecasting
+
+coming soon
+
 #### Trajectory-related Recommendation
+
+coming soon
+
+##### Travel Recommendation
+
+coming soon
+
+##### Friend Recommendation
+
+coming soon
 
 #### Trajectory-related Classification
 
-#### Mobility Generation
+##### Travel Mode Identification
+
+coming soon
+
+##### Trajectory-User Linking
+
+coming soon
+
+##### Other Perspectives
+
+coming soon
 
 #### Travel Time Estimation
 
+##### Trajectory-based
+
+coming soon
+
+##### Road-based
+
+coming soon
+
+##### Other Perspectives
+
+coming soon
+
 #### Anomaly Detection
 
+##### Offline Detection
+
+coming soon
+
+##### Online Detection
+
+coming soon
+
+#### Mobility Generation
+
+##### Macro-dynamic
+
+coming soon
+
+##### Micro-dynamic
+
+coming soon
+
+#### Recent advances in LLMs for trajectory mining
+
+coming soon
 
 ## Summary of Resources
 
