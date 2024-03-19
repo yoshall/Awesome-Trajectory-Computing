@@ -224,60 +224,65 @@ ____
 - Deep Learning Methods
     - Free-Space
         - Supervised Learning-based
-            - 
-            - 
+            - Computing Trajectory Similarity in Linear Time: A Generic Seed-guided Neural Netric learning approach
+            - Trajectory Similarity Learning with Auxiliary Supervision and Optimal Matching
+            - Embeddingbased Similarity Computation for Massive Vehicle Trajectory Data
+            - TMN: Trajectory Matching Networks for Predicting Similarity
+            - T3S: Effective Representation Learning for Trajectory Similarity Computation
+            - TrajGAT: A Graph-based Long-term Dependency Modeling Approach for Trajectory Similarity Computation
         - Self-Supervised Learning-based
-            - 
-            - 
+            - Deep Representation Learning for Trajectory Similarity Computation
+            - Towards Robust Trajectory Similarity Computation: Representation-based Spatiotemporal Similarity Quantification
+            - Similar Trajectory Search with Spatio-temporal Deep Representation Learning
+            - Representation Learning with Multi-level Attention for Activity Trajectory Similarity Computation,
+            - Efficient Trajectory Similarity Computation with Contrastive Learning
+            - Trajectory Similarity Learning with Dual-Feature Attention
+            - Self-supervised contrastive representation learning for large-scale trajectories
+            - CSTRM: Contrastive Self-Supervised Trajectory Representation Model for Trajectory Similarity Computation
+            - On Accurate Computation of Trajectory Similarity via Single Image Superresolution
+            - Effective and Efficient Sports Play Retrieval with Deep Representation Learning
     - Road Network
         - Supervised Learning-based
-            - 
-            - 
+            - A Graphbased Approach for Trajectory Similarity Computation in Spatial Networks
+            - GRLSTM: Trajectory Similarity Computation with Graph-based Residual LSTM
+            - Spatiotemporal Trajectory Similarity Learning in Road Networks
+            - Spatial Structure-Aware Road Network Embedding via Graph Contrastive Learning
         - Self-Supervised Learning-based
-            - 
-            - 
+            - Trembr: Exploring Road Networks for Trajectory Representation Learning
+            - Lightpath: Lightweight and scalable path representation learning
 
 ##### Cluster Analysis
 
 - Traditional Methods
-    - 
-    - 
+    - A review of moving object trajectory clustering algorithms
 - Deep Learning Methods
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+    - Multi-Stage 
+        - Trajectory clustering via deep representation learning
+        - Trip2vec: a deep embedding approach for clustering and profiling taxi trip purposes
+    - End-to-End
+        - Deep trajectory clustering with autoencoders
+        - Detect: Deep trajectory clustering for mobility-behavior analysis
+        - E2dtc: An end to end deep trajectory clustering framework via self-training
 
 #### Visualization
 
 - Traditional Methods
-    - 
-    - 
+    - A descriptive framework for temporal data visualizations based on generalized space-time cubes
+    - A survey of urban visual analytics: Advances and future directions
 - Deep Learning Methods
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+    - Group Visualization
+        - A visual analytics system for exploring, monitoring, and forecasting road traffic congestion
+        - Visual abstraction of large scale geospatial origin-destination movement data
+    - Individual Visualization
+        - Deep learning-assisted comparative analysis of animal trajectories with deephl
+        - Visualization of driving behavior based on hidden feature extraction by using deep learning
+        - Deep learning detection of anomalous patterns from bus trajectories for traffic insight analysis
 
 #### Recent advances in LLMs for trajectory management
 
-- Traditional Methods
-    - 
-    - 
-- Deep Learning Methods
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+- Recovery & Enhancement
+    - Spatio-temporal storytelling? leveraging generative models for semantic trajectory analysis
+    - An exploratory assessment of llm’s potential toward flight trajectory reconstruction analysis
 
 ### Deep Learning for Trajectory Data Mining
 
