@@ -58,20 +58,20 @@ ____
 
 ## Related Surveys
 
-- Trajectory data mining: an overview [[paper](#)] *ACM Transactions on Intelligent Systems and Technology (2015)*
-- A survey on trajectory data mining: Techniques and applications [[paper](#)] *IEEE Access (2016)*
-- Trajectory data mining: A review of methods and applications [[paper](#)] *Journal of spatial information science (2016)*
-- A survey on trajectory clustering analysis [[paper](#)] <br>  *ArXiv (2018)*
-- Trajectory data classification: A review [[paper](#)] <br>  *ACM Transactions on Intelligent Systems and Technology (2019)*
-- A comprehensive survey on trajectory-based location prediction [[paper](#)] <br>  *Iran Journal of Computer Science (2020)*
-- A survey on trajectory data management, analytics, and learning [[paper](#)] <br>  *ACM Computing Surveys (2021)*
-- A survey on deep learning for human mobility <br>  *ACM Computing Surveys  (2021)*
-- Classifying spatial trajectories [[paper](#)] <br>  *ArXiv  (2012)*
-- Traffic prediction using artificial intelligence: review of recent advances and emerging opportunities [[paper](#)] <br>  *Transportation Research PartC: emerging technologies (2022)*
-- A benchmark of existing tools for outlier detection and cleaning in trajectories [[paper](#)] <br>  * (2023)*
-- Spatio-temporal trajectory similarity measures: A comprehensive survey and quantitative study [[paper](#)] <br>  *IEEE Transactions on Knowledge and Data Engineering (2023)*
-- Trajectory similarity measurement: An efficiency perspective [[paper](#)] <br>  *ArXiv (2023)*
-- MobilityDL: A review of deep learning from trajectory data [[paper](#)] <br>  *ArXiv (2024)*
+- Trajectory data mining: an overview [[paper](#)]
+- A survey on trajectory data mining: Techniques and applications [[paper](#)]
+- Trajectory data mining: A review of methods and applications [[paper](#)]
+- A survey on trajectory clustering analysis [[paper](#)]
+- Trajectory data classification: A review [[paper](#)]
+- A comprehensive survey on trajectory-based location prediction [[paper](#)]
+- A survey on trajectory data management, analytics, and learning [[paper](#)]
+- A survey on deep learning for human mobility [[paper](#)]
+- Classifying spatial trajectories [[paper](#)]
+- Traffic prediction using artificial intelligence: review of recent advances and emerging opportunities [[paper](#)]
+- A benchmark of existing tools for outlier detection and cleaning in trajectories [[paper](#)]
+- Spatio-temporal trajectory similarity measures: A comprehensive survey and quantitative study [[paper](#)]
+- Trajectory similarity measurement: An efficiency perspective [[paper](#)]
+- MobilityDL: A review of deep learning from trajectory data [[paper](#)]
 
 <img src="./Picture/Survey_Compare.png" width = "900" align=center>
 
@@ -81,50 +81,69 @@ ____
 
 **This survey is structured along follow dimensions:** 
 
-* Deep Learning for Trajectory Data Management.
-    * Pre-Processing
-        * Simplification
-        * Recovery
-        * Map-Matching
-    * Storage
-        * Storage Database
-        * Index & Query
-    * Analytics
-        * Similarity Measurement
-        * Cluster Analysis
-    * Visualization
-    * Recent advances in LLMs for trajectory management
-* Deep Learning for Trajectory Data Mining.
-    * Trajectory-related Forecasting
-        * Location Forecasting 
-        * Traffic Forecasting
-    * Trajectory-related Recommendation
-        * Travel Recommendation
-        * Friend Recommendation 
-    * Trajectory-related Classification
-        * Travel Mode Identification
-        * Trajectory-User Linking 
-        * Other Perspectives
-    * Travel Time Estimation
-        * Trajectory-based 
-        * Road-based
-        * Other Perspectives
-    * Anomaly Detection
-        * Offline Detection
-        * Online Detection 
-    * Mobility Generation
-        * Macro-dynamic
-        * Micro-dynamic
+* [Deep Learning for Trajectory Data Management](#deep-learning-for-trajectory-data-management)
+    * [Pre-Processing](#pre-processing)
+        * [Simplification]
+        * [Recovery]
+        * [Map-Matching]
+    * [Storage](#storage)
+        * [Storage Database]
+        * [Index & Query]
+    * [Analytics](#analytics)
+        * [Similarity Measurement]
+        * [Cluster Analysis]
+    * [Visualization](#visualization)
+    * [Recent advances in LLMs for trajectory management]
+* [Deep Learning for Trajectory Data Mining](#deep-learning-for-trajectory-data-mining)
+    * [Trajectory-related Forecasting](#trajectory-related-forecasting)
+        * [Location Forecasting]
+        * [Traffic Forecasting]
+    * [Trajectory-related Recommendation](#trajectory-related-recommendation)
+        * [Travel Recommendation]
+        * [Friend Recommendation]
+    * [Trajectory-related Classification](#trajectory-related-classification)
+        * [Travel Mode Identification]
+        * [Trajectory-User Linking]
+        * [Other Perspectives]
+    * [Travel Time Estimation](#travel-time-estimation)
+        * [Trajectory-based]
+        * [Road-based]
+        * [Other Perspectives]
+    * [Anomaly Detection](#anomaly-detection)
+        * [Offline Detection]
+        * [Online Detection]
+    * [Mobility Generation](#mobility-generation)
+        * [Macro-dynamic]
+        * [Micro-dynamic]
 <img src="./Picture/Taxonomy.png" width = "800" align=center>
 
 
 ### Deep Learning for Trajectory Data Management
 
-coming soon
+#### Pre-Processing
+
+#### Storage
+
+#### Analytics
+
+### Visualization
+
+#### Recent advances in LLMs for trajectory management
 
 ### Deep Learning for Trajectory Data Mining
 
-coming soon
+#### Trajectory-related Forecasting
+
+#### Trajectory-related Recommendation
+
+#### Trajectory-related Classification
+
+#### Mobility Generation
+
+#### Travel Time Estimation
+
+#### Anomaly Detection
+
 
 ## Summary of Resources
 
