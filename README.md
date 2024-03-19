@@ -33,7 +33,7 @@ ____
 
 ## Citation
 
-If you find our work useful in your research, please consider citing:
+👉 If you find our work useful in your research, please consider citing 👻:
 ```
 @misc{zou2024deep,
       title={Deep Learning for Trajectory Data Management and Mining: A Survey and Beyond}, 
@@ -78,7 +78,8 @@ If you find our work useful in your research, please consider citing:
 
 ## Taxonomy Framework
 
-**This survey is structured along follow dimensions: **
+```
+**This survey is structured along follow dimensions:** 
 
 * Deep Learning for Trajectory Data Management.
     * Pre-Processing
@@ -115,7 +116,7 @@ If you find our work useful in your research, please consider citing:
         * Macro-dynamic
         * Micro-dynamic
 <img src="./Picture/Taxonomy.png" width = "800" align=center>
-
+```
 
 ### Deep Learning for Trajectory Data Management
 
