@@ -8,7 +8,7 @@ Welcome to our carefully curated collection of **Deep Learning Methods and Found
 
 <img src="./Picture/Trajectory_Overview.gif" width = "900" align=center>
 
-By [Citymind LAB](https://citymind.top), [HKUST(GZ)](https://www.hkust-gz.edu.cn/).
+By [Citymind LAB](https://citymind.top)![alt text](./citymind.png), [HKUST(GZ)](https://www.hkust-gz.edu.cn/)![alt text](./hkust-gz.png).
 
 Check out our comprehsensive tutorial paper:
 > *Deep Learning for Trajectory Data Management and Mining: A Survey and Beyond.* <br/> Wei Chen, Yuxuan Liang†, Yuanshao Zhu, Yanchuan Chang, Kang Luo, Haomin Wen, Lei Li, Yanwei Yu, Qingsong Wen, Chao Chen, Kai Zheng, Yunjun Gao, Xiaofang Zhou, Fellow, IEEE, Yu Zheng, Fellow, IEEE. [[Link](#)]
@@ -16,7 +16,7 @@ Check out our comprehsensive tutorial paper:
 > **<p align="justify"> Abstract:** *Trajectory computing is a pivotal domain encompassing trajectory data management and mining, garnering widespread attention due to its crucial role in various practical applications such as location services, urban traffic, and public safety. Traditional methods, focusing on simplistic spatio-temporal features, face challenges of complex calculations, limited scalability, and inadequate adaptability to real-world complexities. In this paper, we present a comprehensive review of the development and recent advances in deep learning for trajectory computing (DL4Traj). We first define trajectory data and provide a brief overview of widely-used deep learning models. Systematically, we explore deep learning applications in trajectory management (pre-processing, storage, analysis, and visualization) and mining (forecasting, recommendation, classification, estimation, anomaly detection, and generation). Additionally, we
 summarize application scenarios, public datasets, and toolkits. Finally, we outline current challenges in DL4Traj research and propose future directions.* </p>
 
-#### We strongly encourage authors of relevant works to make a pull request and add their paper's information [[here](https://github.com/yoshall/Awesome-Trajectory-Computing/pulls)].
+***#### ***We strongly encourage authors of relevant works to make a pull request and add their paper's information [[here](https://github.com/yoshall/Awesome-Trajectory-Computing/pulls)].
 
 👉 If you find any missed resources (paper/code) or errors, please feel free to open an issue 🫡 or make a pull request.
 
