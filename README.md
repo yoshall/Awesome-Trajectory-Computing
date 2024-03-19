@@ -117,8 +117,11 @@ ____
     * [Recent advances in LLMs for trajectory mining](#recent-advances-in-llms-for-trajectory-mining)
 <img src="./Picture/Taxonomy.png" width = "800" align=center>
 
+____
 
 ### Deep Learning for Trajectory Data Management
+
+____
 
 #### Pre-Processing
 
@@ -186,6 +189,8 @@ ____
     - Map-matching on wireless traffic sensor data with a sequence-to-sequence model
     - Fl-amm: Federated learning augmented map matching with heterogeneous cellular moving trajectories
 
+____
+
 #### Storage
 
 ##### Storage Database
@@ -210,6 +215,8 @@ ____
     - Effectively Learning Spatial Indices
     - The Case for Learned Spatial Indexes
     - X-FIST: Extended Flood Index for Efficient Similarity Search in Massive Trajectory Dataset
+
+____
 
 #### Analytics
 
@@ -264,6 +271,8 @@ ____
         - Detect: Deep trajectory clustering for mobility-behavior analysis
         - E2dtc: An end to end deep trajectory clustering framework via self-training
 
+____
+
 #### Visualization
 
 - Traditional Methods
@@ -278,13 +287,19 @@ ____
         - Visualization of driving behavior based on hidden feature extraction by using deep learning
         - Deep learning detection of anomalous patterns from bus trajectories for traffic insight analysis
 
+____
+
 #### Recent advances in LLMs for trajectory management
 
 - Recovery & Enhancement
     - Spatio-temporal storytelling? leveraging generative models for semantic trajectory analysis
     - An exploratory assessment of llm’s potential toward flight trajectory reconstruction analysis
 
+____
+
 ### Deep Learning for Trajectory Data Mining
+
+____
 
 #### Trajectory-related Forecasting
 
@@ -302,6 +317,8 @@ ____
     - 
     - 
 
+____
+
 ##### Traffic Forecasting
 
 - Traditional Methods
@@ -315,6 +332,8 @@ ____
     - 
     - 
     - 
+
+____
 
 #### Trajectory-related Recommendation
 
@@ -330,6 +349,8 @@ ____
     - 
     - 
 
+____
+
 ##### Travel Recommendation
 
 - Traditional Methods
@@ -344,6 +365,8 @@ ____
     - 
     - 
 
+____
+
 ##### Friend Recommendation
 
 - Traditional Methods
@@ -357,6 +380,8 @@ ____
     - 
     - 
     - 
+
+____
 
 #### Trajectory-related Classification
 
@@ -374,6 +399,8 @@ ____
     - 
     - 
 
+____
+
 ##### Trajectory-User Linking
 
 - Traditional Methods
@@ -388,6 +415,8 @@ ____
     - 
     - 
 
+____
+
 ##### Other Perspectives
 
 - Traditional Methods
@@ -401,6 +430,8 @@ ____
     - 
     - 
     - 
+
+____
 
 #### Travel Time Estimation
 
@@ -418,6 +449,8 @@ ____
     - 
     - 
 
+____
+
 ##### Road-based
 
 - Traditional Methods
@@ -432,6 +465,8 @@ ____
     - 
     - 
 
+____
+
 ##### Other Perspectives
 
 - Traditional Methods
@@ -445,6 +480,8 @@ ____
     - 
     - 
     - 
+
+____
 
 #### Anomaly Detection
 
@@ -462,6 +499,8 @@ ____
     - 
     - 
 
+____
+
 ##### Online Detection
 
 - Traditional Methods
@@ -475,6 +514,8 @@ ____
     - 
     - 
     - 
+
+____
 
 #### Mobility Generation
 
@@ -492,6 +533,8 @@ ____
     - 
     - 
 
+____
+
 ##### Micro-dynamic
 
 - Traditional Methods
@@ -505,6 +548,8 @@ ____
     - 
     - 
     - 
+
+____
 
 #### Recent advances in LLMs for trajectory mining
 
@@ -520,40 +565,30 @@ ____
     - 
     - 
 
+____
+
 ## Summary of Resources
+
+____
 
 ### Datasets
 
 coming soon
 
+____
+
 ### Tools
 
-- Traditional Methods
-    - 
-    - 
-- Deep Learning Methods
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+coming soon
+
+____
+
 
 ### Other Useful Links
 
-- Traditional Methods
-    - 
-    - 
-- Deep Learning Methods
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+coming soon
 
+____
 
 
 ## Star History
