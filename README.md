@@ -553,17 +553,16 @@ ____
 
 #### Recent advances in LLMs for trajectory mining
 
-- Traditional Methods
-    - 
-    - 
-- Deep Learning Methods
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+- Forecasting
+    - Where would i go next? large language models as human mobility predictors
+    - Exploring large language models for human mobility prediction under public events
+    - Prompt mining for language-based human mobility forecasting
+    - Urbangpt: Spatio-temporal large language models
+- Generation
+    - Large language models as urban residents: An llm agent framework for personal mobility generation
+    - Mobilitygpt: Enhanced human mobility modeling with a gpt model
+- Identification
+    - Are you being tracked? discover the power of zero-shot trajectory tracing with llms!
 
 ____
 
@@ -573,20 +572,35 @@ ____
 
 ### Datasets
 
-coming soon
+<img src="./Picture/datasets.png" width = "800" align=center>
 
 ____
 
 ### Tools
 
-coming soon
+- [SUMO]()
+- [SafeGraph]()
+- [Cblab]()
+- [PyTrack]()
+- [PyMove]()
+- [TransBigData]()
+- [Traja]()
+- [MovingPandas]()
+- [Scikit-mobility]()
+- [Tracktable]()
+- [Yupi]()
+
 
 ____
 
 
 ### Other Useful Links
 
-coming soon
+- [Uber](https://www.uber.com)
+- [DiDi](https://didiglobal.com)
+- [Google Map](https://www.google.com/maps)
+- [Baidu Map](https://map.baidu.com)
+- [Cainiao](https://www.cainiao.com)
 
 ____
 
