@@ -119,7 +119,7 @@ ____
 
 ____
 
-### Deep Learning for Trajectory Data Management
+### Deep Learning for Trajectory Data Management 🔐
 
 ____
 
@@ -297,7 +297,7 @@ ____
 
 ____
 
-### Deep Learning for Trajectory Data Mining
+### Deep Learning for Trajectory Data Mining 🔍
 
 ____
 
@@ -567,7 +567,7 @@ ____
 
 ____
 
-## Summary of Resources
+## Summary of Resources 🛠️
 
 ____
 
