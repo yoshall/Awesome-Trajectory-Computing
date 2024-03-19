@@ -35,7 +35,7 @@ ____
 
 👉 If you find our work useful in your research, please consider citing 👻:
 ```
-@misc{zou2024deep,
+@misc{chen2024deep,
       title={Deep Learning for Trajectory Data Management and Mining: A Survey and Beyond}, 
       author={Wei Chen, Yuxuan Liang†, Yuanshao Zhu, Yanchuan Chang, Kang Luo, Haomin Wen, Lei Li, Yanwei Yu, Qingsong Wen, Chao Chen, Kai Zheng, Yunjun Gao, Xiaofang Zhou, Yu Zheng},
       year={2024},
@@ -58,9 +58,9 @@ ____
 
 ## Related Surveys
 
-- Trajectory data mining: an overview [[paper](#)] <br> *ACM Transactions on Intelligent Systems and Technology (2015)*
-- A survey on trajectory data mining: Techniques and applications [[paper](#)] <br> *IEEE Access (2016)*
-- Trajectory data mining: A review of methods and applications [[paper](#)] <br>  *Journal of spatial information science (2016)*
+- Trajectory data mining: an overview [[paper](#)] *ACM Transactions on Intelligent Systems and Technology (2015)*
+- A survey on trajectory data mining: Techniques and applications [[paper](#)] *IEEE Access (2016)*
+- Trajectory data mining: A review of methods and applications [[paper](#)] *Journal of spatial information science (2016)*
 - A survey on trajectory clustering analysis [[paper](#)] <br>  *ArXiv (2018)*
 - Trajectory data classification: A review [[paper](#)] <br>  *ACM Transactions on Intelligent Systems and Technology (2019)*
 - A comprehensive survey on trajectory-based location prediction [[paper](#)] <br>  *Iran Journal of Computer Science (2020)*
