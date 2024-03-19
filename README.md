@@ -122,45 +122,162 @@ ____
 
 #### Pre-Processing
 
+<img src="./Picture/pre-process.png" width = "500" align=center>
+
 ##### Simplification
 
-coming soon
+- Traditional Methods
+    - Batch Mode
+        - Algorithms for the Reduction of the Number of Points Required to Represent a Digitized Line or its Caricature
+        - Direction-preserving  trajectory simplification
+    - Online Mode
+        - An online algorithm for segmenting time series
+        - Spatiotemporal compression techniques for moving point objects
+    - Semantic-based
+        - Trace: Realtime compression of streaming trajectories in road networks
+- Deep Learning Methods
+    - Trajectory simplification with reinforcement learning
+    - A Lightweight Framework for Fast Trajectory Simplification
+    - Error-bounded Online Trajectory Simplification with Multi-agent Reinforcement Learning
+    - Collectively simplifying trajectories in a database: A query accuracy driven approach
+
 
 ##### Recovery
 
-coming soon
+- Traditional Methods
+    - Kinematic interpolation of movement data
+    - A comparison of two methods to create tracks of moving objects: linear weighted distance and constrained random walk
+    - Interpolation of animal tracking data in a fluid environment
+- Deep Learning Methods
+    - Free-space based
+        - Deep trajectory recovery with fine-grained calibration using kalman filter
+        - Attnmove: History enhanced trajectory recovery via attentional network
+        - Periodicmove: shift-aware human mobility recovery with graph neural network
+        - Trajbert: Bert-based trajectory recovery with spatial-temporal refinement for implicit sparse trajectories
+        - Teri: An effective framework for trajectory recovery with irregular time intervals
+    - Non Free-space based
+        - Mtrajrec: Map-constrained trajectory recovery via seq2seq multitask learning
+        - Rntrajrec: Road network enhanced trajectory recovery with spatial-temporal transformer
+        - Visiontraj: A noise-robust trajectory recovery framework based on large-scale camera network
+        - Learning semantic behavior for human mobility trajectory recovery
+        - Traj2traj: A road network constrained spatiotemporal interpolation model for traffic trajectory restoration
+        - Patr: Periodicity-aware trajectory recovery for express system via seq2seq model
+    - Road Networks
+        - Learning to generate maps from trajectories
+        - Multimodal deep learning for robust road attribute detection
+        - Aerial images meet crowdsourced trajectories: a new approach to robust road extraction
+        - Deepdualmapper: A gated fusion network for automatic map extraction using aerial images and trajectories
+        - Df-drunet: A decoder fusion model for automatic road extraction leveraging remote sensing images and gps trajectory data
+        - Delvmap: Completing residential roads in maps based on couriers’ trajectories and satellite imagery
 
 ##### Map-Matching
 
-coming soon
+- Traditional Methods
+    - Road reduction filtering for gps-gis navigation
+    - A general map matching algorithm for transport telematics applications
+    - Map-matching in complex urban road networks
+    - Fast map matching, an algorithm integrating hidden markov model with precomputation
+- Deep Learning Methods
+    - Deepmm: Deep learning based map matching with data augmentation
+    - Transformer-based mapmatching model with limited labeled data using transfer-learning approach
+    - L2mm: learning to map matching with deep models for low-quality gps trajectory data
+    - Graphmm: Graph-based vehicular map matching by leveraging trajectory and road correlations
+    - Dmm: Fast map matching for cellular data
+    - Map-matching on wireless traffic sensor data with a sequence-to-sequence model
+    - Fl-amm: Federated learning augmented map matching with heterogeneous cellular moving trajectories
 
 #### Storage
 
 ##### Storage Database
 
-coming soon
+- Trajectory Management Systems
+    - Sharkdb: An in-memory column-oriented trajectory storage
+    - Elite: an elastic infrastructure for big spatiotemporal trajectories
+    - Dragoon: a hybrid and efficient big trajectory management system for offline and online analytics
+    - Trajmesa: A distributed nosql-based trajectory data management system
+- Vector Databases
+    - Vector-based trajectory storage and query for intelligent transport system
+    - Ghost: A general framework for high-performance online similarity queries over distributed trajectory streams
 
 ##### Index & Query
 
-coming soon
+- Traditional index
+    - Trajectory similarity join in spatial networks,
+    - Distributed Trajectory Similarity Search
+    - Distributed In-Memory Trajectory Similarity Search and Join on Road Network
+    - Trass: Efficient trajectory similarity search based on key-value data stores
+- Deep Learning Methods
+    - Effectively Learning Spatial Indices
+    - The Case for Learned Spatial Indexes
+    - X-FIST: Extended Flood Index for Efficient Similarity Search in Massive Trajectory Dataset
 
 #### Analytics
 
 ##### Similarity Measurement
 
-coming soon
+- Traditional Methods
+    - Efficient retrieval of similar time sequences under time warping
+    - Discovering Similar Multidimensional Trajectories
+    - Robust and Fast Similarity Search for Moving Object Trajectories
+    - Computing discrete fr ́ echet distance
+    - The computational geometry of comparing shapes
+- Deep Learning Methods
+    - Free-Space
+        - Supervised Learning-based
+            - 
+            - 
+        - Self-Supervised Learning-based
+            - 
+            - 
+    - Road Network
+        - Supervised Learning-based
+            - 
+            - 
+        - Self-Supervised Learning-based
+            - 
+            - 
 
 ##### Cluster Analysis
 
-coming soon
+- Traditional Methods
+    - 
+    - 
+- Deep Learning Methods
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
 
 #### Visualization
 
-coming soon
+- Traditional Methods
+    - 
+    - 
+- Deep Learning Methods
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
 
 #### Recent advances in LLMs for trajectory management
 
-coming soon
+- Traditional Methods
+    - 
+    - 
+- Deep Learning Methods
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
 
 ### Deep Learning for Trajectory Data Mining
 
@@ -168,75 +285,235 @@ coming soon
 
 ##### Location Forecasting
 
-coming soon
+- Traditional Methods
+    - 
+    - 
+- Deep Learning Methods
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
 
 ##### Traffic Forecasting
 
-coming soon
+- Traditional Methods
+    - 
+    - 
+- Deep Learning Methods
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
 
 #### Trajectory-related Recommendation
 
-coming soon
+- Traditional Methods
+    - 
+    - 
+- Deep Learning Methods
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
 
 ##### Travel Recommendation
 
-coming soon
+- Traditional Methods
+    - 
+    - 
+- Deep Learning Methods
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
 
 ##### Friend Recommendation
 
-coming soon
+- Traditional Methods
+    - 
+    - 
+- Deep Learning Methods
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
 
 #### Trajectory-related Classification
 
 ##### Travel Mode Identification
 
-coming soon
+- Traditional Methods
+    - 
+    - 
+- Deep Learning Methods
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
 
 ##### Trajectory-User Linking
 
-coming soon
+- Traditional Methods
+    - 
+    - 
+- Deep Learning Methods
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
 
 ##### Other Perspectives
 
-coming soon
+- Traditional Methods
+    - 
+    - 
+- Deep Learning Methods
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
 
 #### Travel Time Estimation
 
 ##### Trajectory-based
 
-coming soon
+- Traditional Methods
+    - 
+    - 
+- Deep Learning Methods
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
 
 ##### Road-based
 
-coming soon
+- Traditional Methods
+    - 
+    - 
+- Deep Learning Methods
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
 
 ##### Other Perspectives
 
-coming soon
+- Traditional Methods
+    - 
+    - 
+- Deep Learning Methods
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
 
 #### Anomaly Detection
 
 ##### Offline Detection
 
-coming soon
+- Traditional Methods
+    - 
+    - 
+- Deep Learning Methods
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
 
 ##### Online Detection
 
-coming soon
+- Traditional Methods
+    - 
+    - 
+- Deep Learning Methods
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
 
 #### Mobility Generation
 
 ##### Macro-dynamic
 
-coming soon
+- Traditional Methods
+    - 
+    - 
+- Deep Learning Methods
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
 
 ##### Micro-dynamic
 
-coming soon
+- Traditional Methods
+    - 
+    - 
+- Deep Learning Methods
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
 
 #### Recent advances in LLMs for trajectory mining
 
-coming soon
+- Traditional Methods
+    - 
+    - 
+- Deep Learning Methods
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
 
 ## Summary of Resources
 
@@ -246,11 +523,31 @@ coming soon
 
 ### Tools
 
-coming soon
+- Traditional Methods
+    - 
+    - 
+- Deep Learning Methods
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
 
 ### Other Useful Links
 
-coming soon
+- Traditional Methods
+    - 
+    - 
+- Deep Learning Methods
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
 
 
 
