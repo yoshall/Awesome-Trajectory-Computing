@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-# Awesome-Trajectory-Computing
+# 🏄‍♂️ Awesome-Trajectory-Computing
 
 Welcome to our carefully curated collection of **Deep Learning Methods and Foundation Models (LLM, LM, FM) for Trajectory Computing (Trajectory Data Mining and Management)** with awesome resources (paper, code, data, too, etc.)! This repository serves as a valuable addition to our comprehensive survey paper. Rest assured, we are committed to consistently updating it to ensure it remains up-to-date and relevant.
 
@@ -25,12 +25,12 @@ summarize application scenarios, public datasets, and toolkits. Finally, we outl
 
 ____
 
-## News
+## 📰 News
 ```
 - 2024.03.19: Latest update of this paper list.
 ```
 
-## Citation
+## 📚 Citation
 
 👉 If you find our work useful in your research, please consider citing 👻:
 ```
@@ -43,7 +43,7 @@ ____
 }
 ```
 
-## Contents
+## 📇 Contents
 
 - [Related Surveys](#related-surveys)
 - [Taxonomy Framework](#taxonomy-framework)
@@ -55,7 +55,7 @@ ____
     - [Other Useful Links](#other-useful-links)
 
 
-## Related Surveys
+## 📖 Related Surveys
 
 - Trajectory data mining: an overview [[paper](#)]
 - A survey on trajectory data mining: Techniques and applications [[paper](#)]
@@ -75,7 +75,7 @@ ____
 <img src="./Picture/Survey_Compare.png" width = "900" align=center>
 
 
-## Taxonomy Framework
+## 🖲️ Taxonomy Framework
 
 
 **This survey is structured along follow dimensions:** 
@@ -252,3 +252,8 @@ coming soon
 
 coming soon
 
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yoshall/Awesome-Trajectory-Computing&type=Date)](https://star-history.com/#yoshall/Awesome-Trajectory-Computing&Date)
