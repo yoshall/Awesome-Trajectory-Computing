@@ -18,7 +18,7 @@ summarize application scenarios, public datasets, and toolkits. Finally, we outl
 
 ***We strongly encourage authors of relevant works to make a pull request and add their paper's information [[here](https://github.com/yoshall/Awesome-Trajectory-Computing/pulls)].***
 
-👉 If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request 🫡.
+👉 If you find any missed resources (paper / code / dataset / tool) or errors, please feel free to open an issue or make a pull request 🫡.
 
 👉 Please consider giving this repository a star ⭐ if you find it helpful!
 
