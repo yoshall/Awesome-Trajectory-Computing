@@ -78,7 +78,7 @@ ____
 
 ## Taxonomy Framework
 
-```
+
 **This survey is structured along follow dimensions:** 
 
 * Deep Learning for Trajectory Data Management.
@@ -116,7 +116,7 @@ ____
         * Macro-dynamic
         * Micro-dynamic
 <img src="./Picture/Taxonomy.png" width = "800" align=center>
-```
+
 
 ### Deep Learning for Trajectory Data Management
 
