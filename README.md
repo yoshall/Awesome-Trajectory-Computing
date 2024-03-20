@@ -541,25 +541,31 @@ ____
     - Learning to estimate the travel time
     - CoDriver ETA: Combine driver information in estimated time of arrival by driving style learning auxiliary task
     - DeepIST: Deep image-based spatiotemporal network for travel time estimation
-    - HetETA: Heterogeneous information network embedding for estimating time of arrival
-    - ConstGAT: Contextual spatial-temporal graph attention network for travel time estimation at baidu maps
     - CompactETA: A fast inference system for travel time prediction
     - Road network metric learning for estimated time of arrival
     - Interpreting trajectories from multiple views: A hierarchical selfattention network for estimating the time of arrival
-    - Dual graph convolution architecture search for travel time estimation
     - Route travel time estimation on a road network revisited: Heterogeneity, proximity, periodicity and dynamicity
+    - Graph
+        - ConstGAT: Contextual spatial-temporal graph attention network for travel time estimation at baidu maps
+        - HetETA: Heterogeneous information network embedding for estimating time of arrival
+        - Dual graph convolution architecture search for travel time estimation
+
     
 
 
 - Other Perspectives
-    - CatETA: A categorical approximate approach for estimating time of arrival
-    - Uncertainty-aware probabilistic travel time prediction for on-demand ride-hailing at didi
-    - SSML: Self-supervised meta-learner for en route travel time estimation at baidu maps
-    - Privacy-preserving travel time prediction with uncertainty using GPS trace data
-    - Citywide estimation of travel time distributions with bayesian deep graph learning
-    - MetaER-TTE: An Adaptive Meta-learning Model for En Route Travel Time Estimation
-    - Cross-area travel time uncertainty estimation from trajectory data: a federated learning approach
-    - Travel time distribution estimation by learning representations over temporal attributed graphs
+    - En route
+        - SSML: Self-supervised meta-learner for en route travel time estimation at baidu maps
+        - MetaER-TTE: An Adaptive Meta-learning Model for En Route Travel Time Estimation
+    - Uncertainty
+        - Privacy-preserving travel time prediction with uncertainty using GPS trace data
+        - Cross-area travel time uncertainty estimation from trajectory data: a federated learning approach
+    - Classification-based
+        - CatETA: A categorical approximate approach for estimating time of arrival
+        - Uncertainty-aware probabilistic travel time prediction for on-demand ride-hailing at Didi
+    - Travel time distribution
+        - Citywide estimation of travel time distributions with bayesian deep graph learning
+        - Travel time distribution estimation by learning representations over temporal attributed graphs
 
 </details>
 
@@ -569,38 +575,27 @@ ____
 <details>
 <summary>Anomaly Detection</summary>
 
+- Traditional Methods
+    - Trajectory outlier detection: A Partition-and-Detect Framework
 
 ### Offline Detection
 
-- Traditional Methods
-    - Trajectory outlier detection: A Partition-and-Detect Framework
 - Deep Learning Methods
-    - Offline Detection
-        - Anomalous Trajectory Detection using Recurrent Neural Network
-        - Coupled igmmgans with applications to anomaly detection in human mobility data
-        - TripSafe: Retrieving Safety-related Abnormal Trips in Real-time with Trajectory Data
-        - Open anomalous trajectory recognition via probabilistic metric learning
-    - Online Detection
-        - A Fast Trajectory Outlier Detection Approach via Driving Behavior Modeling
-        - Online Anomalous Subtrajectory Detection on Road Networks with Deep Reinforcement Learning
-        - Online Anomalous Trajectory Detection with Deep Generative Sequence Modeling
-        - DeepTEA: Effective and Efficient Online Time-dependent Trajectory Outlier Detection
+    - Anomalous Trajectory Detection using Recurrent Neural Network
+    - Coupled igmmgans with applications to anomaly detection in human mobility data
+    - TripSafe: Retrieving Safety-related Abnormal Trips in Real-time with Trajectory Data
+    - Open anomalous trajectory recognition via probabilistic metric learning
+    
 
 ____
 
 ### Online Detection
 
-- Traditional Methods
-    - 
-    - 
 - Deep Learning Methods
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+    - A Fast Trajectory Outlier Detection Approach via Driving Behavior Modeling
+    - Online Anomalous Subtrajectory Detection on Road Networks with Deep Reinforcement Learning
+    - Online Anomalous Trajectory Detection with Deep Generative Sequence Modeling
+    - DeepTEA: Effective and Efficient Online Time-dependent Trajectory Outlier Detection
 
 </details>
 
@@ -615,32 +610,35 @@ ____
 ### Macro-dynamic
 
 - Traditional Methods
-    - 
-    - 
-- Deep Learning Methods
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+    - A deep gravity model for mobility flows generation
+    - Unraveling the origin of exponential law in intra-urban human mobility Deep Learning Methods
+    - Citywide traffic flow prediction based on multiple gated spatio-temporal convolutional neural networks
+    - Spatiotemporal scenario generation of traffic flow based on LSTM-GAN
+    - TrafficGAN: Network-scale deep traffic prediction with generative adversarial nets
+    - Traffic flow imputation using parallel data and generative adversarial networks
+    - GANs based density distribution privacypreservation on mobility data
+    - Deep multi-view spatial-temporal network for taxi demand prediction
 
 ____
 
 ### Micro-dynamic
 
-- Traditional Methods
-    - 
-    - 
 - Deep Learning Methods
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+    - Large scale GPS trajectory generation using map based on two stage GAN
+    - Deeptransport: Prediction and simulation of human mobility and transportation mode at a citywide level
+    - Deepmove: Predicting human mobility with attentional recurrent networks
+    - Wherenext: a location predictor on trajectory pattern mining
+    - How do you go where? improving next location prediction by learning travel mode information using transformers
+    - A nonparametric generative model for human trajectories
+    - Simulating continuous-time human mobility trajectories
+    - COLA: Crosscity mobility transformer for human trajectory simulation
+    - Difftraj: Generating GPS trajectory with diffusion probabilistic model
+    - Where would I go next? large language models as human mobility predictors
+    - Exploring large language models for human mobility prediction under public events
+    - Learning to simulate human mobility
+    - TrajGAIL: Generating urban vehicle trajectories using generative adversarial imitation learning
+    - Activity trajectory generation via modeling spatiotemporal dynamics
+    - Learning to simulate daily activities via modeling dynamic human needs
 
 </details>
 
