@@ -49,11 +49,11 @@ ____
 
 ## 📇 Contents
 
-- [Related Surveys](#related-surveys)
-- [Taxonomy Framework](#taxonomy-framework)
-    - [Trajectory Data Management Paper List](#deep-learning-for-trajectory-data-management)
-    - [Trajectory Data Mining Paper List](#deep-learning-for-trajectory-data-mining)
-- [Summary of Resources](#Taxonomy-and-summary-of-open-sourced-dataset)
+- [Related Surveys](#📖-related-surveys)
+- [Taxonomy Framework](#🖲️-taxonomy-framework)
+    - [Trajectory Data Management Paper List](#deep-learning-for-trajectory-data-management-🔐)
+    - [Trajectory Data Mining Paper List](#deep-learning-for-trajectory-data-mining-🔍)
+- [Summary of Resources](#summary-of-resources-🛠️)
     - [Datasets](#datasets)
     - [Tools](#tools)
     - [Other Useful Links](#other-useful-links)
@@ -86,52 +86,54 @@ ____
 
 **This survey is structured along follow dimensions:** 
 
-* [Deep Learning for Trajectory Data Management](#deep-learning-for-trajectory-data-management)
-    * [Pre-Processing](#pre-processing)
-        * [Simplification](#simplification)
-        * [Recovery](#recovery)
-        * [Map-Matching](#map-matching)
-    * [Storage](#storage)
-        * [Storage Database](#storage)
-        * [Index & Query](#index--query)
-    * [Analytics](#analytics)
-        * [Similarity Measurement](#similarity-measurement)
-        * [Cluster Analysis](#cluster-analysis)
-    * [Visualization](#visualization)
-    * [Recent advances in LLMs for trajectory management](#recent-advances-in-llms-for-trajectory-management)
-* [Deep Learning for Trajectory Data Mining](#deep-learning-for-trajectory-data-mining)
-    * [Trajectory-related Forecasting](#trajectory-related-forecasting)
-        * [Location Forecasting](#location-forecasting)
-        * [Traffic Forecasting](#traffic-forecasting)
-    * [Trajectory-related Recommendation](#trajectory-related-recommendation)
-        * [Travel Recommendation](#travel-recommendation)
-        * [Friend Recommendation](#friend-recommendation)
-    * [Trajectory-related Classification](#trajectory-related-classification)
-        * [Travel Mode Identification](#travel-mode-identification)
-        * [Trajectory-User Linking](#trajectory-user-linking)
-        * [Other Perspectives](#other-perspectives)
-    * [Travel Time Estimation](#travel-time-estimation)
-        * [Trajectory-based](#trajectory-based)
-        * [Road-based](#road-based)
-        * [Other Perspectives](#other-perspectives-1)
-    * [Anomaly Detection](#anomaly-detection)
-        * [Offline Detection](#offline-detection)
-        * [Online Detection](#online-detection)
-    * [Mobility Generation](#mobility-generation)
-        * [Macro-dynamic](#macro-dynamic)
-        * [Micro-dynamic](#micro-dynamic)
-    * [Recent advances in LLMs for trajectory mining](#recent-advances-in-llms-for-trajectory-mining)
+> * [Deep Learning for Trajectory Data Management](#deep-learning-for-trajectory-data-management)
+>    * [Pre-Processing](#pre-processing)
+>        * [Simplification](#simplification)
+>        * [Recovery](#recovery)
+>        * [Map-Matching](#map-matching)
+>    * [Storage](#storage)
+>        * [Storage Database](#storage)
+>        * [Index & Query](#index--query)
+>    * [Analytics](#analytics)
+>        * [Similarity Measurement](#similarity-measurement)
+>        * [Cluster Analysis](#cluster-analysis)
+>    * [Visualization](#visualization)
+>    * [Recent advances in LLMs for trajectory management](#recent-advances-in-llms-for-trajectory-management)
+>* [Deep Learning for Trajectory Data Mining](#deep-learning-for-trajectory-data-mining)
+>    * [Trajectory-related Forecasting](#trajectory-related-forecasting)
+>        * [Location Forecasting](#location-forecasting)
+>        * [Traffic Forecasting](#traffic-forecasting)
+>    * [Trajectory-related Recommendation](#trajectory-related-recommendation)
+>        * [Travel Recommendation](#travel-recommendation)
+>        * [Friend Recommendation](#friend-recommendation)
+>    * [Trajectory-related Classification](#trajectory-related-classification)
+>        * [Travel Mode Identification](#travel-mode-identification)
+>        * [Trajectory-User Linking](#trajectory-user-linking)
+>        * [Other Perspectives](#other-perspectives)
+>    * [Travel Time Estimation](#travel-time-estimation)
+>        * [Trajectory-based](#trajectory-based)
+>        * [Road-based](#road-based)
+>        * [Other Perspectives](#other-perspectives-1)
+>    * [Anomaly Detection](#anomaly-detection)
+>        * [Offline Detection](#offline-detection)
+>        * [Online Detection](#online-detection)
+>    * [Mobility Generation](#mobility-generation)
+>        * [Macro-dynamic](#macro-dynamic)
+>        * [Micro-dynamic](#micro-dynamic)
+>    * [Recent advances in LLMs for trajectory mining](#recent-advances-in-llms-for-trajectory-mining)
+
 
 <img src="./Picture/Taxonomy.png" width = "800" align=center>
 
 ____
 
-## <font color=SkyBlue>Deep Learning for Trajectory Data Management</font> 🔐
+## **Deep Learning for Trajectory Data Management 🔐**
 
 
 <details>
 <summary>
-<font size=4 color=Green>Pre-Processing</font>
+
+### Pre-Processing
 </summary>
 
 <img src="./Picture/pre-process.png" width = "500" align=center>
@@ -622,7 +624,7 @@ ____
 
 ____
 
-## Summary of Resources 🛠️
+## **Summary of Resources 🛠️**
 
 ____
 
