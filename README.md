@@ -30,6 +30,8 @@ ____
 - 2024.03.19: Latest update of this paper list.
 ```
 
+____
+
 ## 📚 Citation
 
 👉 If you find our work useful in your research, please consider citing 👻:
@@ -43,6 +45,8 @@ ____
 }
 ```
 
+____
+
 ## 📇 Contents
 
 - [Related Surveys](#related-surveys)
@@ -54,6 +58,7 @@ ____
     - [Tools](#tools)
     - [Other Useful Links](#other-useful-links)
 
+____
 
 ## 📖 Related Surveys
 
@@ -74,6 +79,7 @@ ____
 
 <img src="./Picture/Survey_Compare.png" width = "900" align=center>
 
+____
 
 ## 🖲️ Taxonomy Framework
 
@@ -383,51 +389,65 @@ ____
 
 #### Trajectory-related Classification
 
+- Traditional Methods
+    - A survey and comparison of trajectory classification methods
+    - Traclass: trajectory classification using hierarchical region-based and trajectory-based clustering
+    - Integrating cross-scale analysis in the spatial and temporal domains for classification of behavioral movement
+    - Learning transportation mode from raw gps data for geographic applications on the web
+    - Revealing the physics of movement: Comparing the similarity of movement characteristics of different types of moving objects
+    - 
+
 ##### Travel Mode Identification
 
-- Traditional Methods
-    - 
-    - 
 - Deep Learning Methods
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+    - Estimator: An effective and scalable framework for transportation mode classification over trajectories
+    - Trajectorynet: An embedded gps trajectory representation for point-based classification using recurrent neural networks
+    - Spatio-temporal gru for trajectory classification
+    - Modeling trajectories with neural ordinary differential equations
+    - Traclets: Harnessing the power of computer vision for trajectory classification
+    - Trajformer: Efficient trajectory classification with transformers
+    - Semi-supervised deep learning approach for transportation mode identification using gps trajectory data
+    - Distributional and spatial-temporal robust representation learning for transportation activity recognition
+    - End-to-end trajectory transportation mode classification using bi-lstm recurrent neural network
+    - Trajectory-as-a-sequence: A novel travel mode identification framework
+    - A multi-scale attributes attention model for transport mode identification
+    - Graph based embedding learning of trajectory data for transportation mode recognition by fusing sequence and dependency relations
+
 
 ____
 
 ##### Trajectory-User Linking
 
-- Traditional Methods
-    - 
-    - 
 - Deep Learning Methods
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+    - Identifying human mobility via trajectory embeddings
+    - Trajectory-user linking via variational autoencoder
+    - Trajectory-user linking with attentive recurrent network
+    - Mutual distillation learning network for trajectory-user linking
+    - Adversarial mobility learning for human trajectory classification
+    - Self-supervised human mobility learning for next location prediction and trajectory classification
     - 
 
 ____
 
 ##### Other Perspectives
 
-- Traditional Methods
-    - 
-    - 
 - Deep Learning Methods
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+    - Semi-Supervised Learning
+        - Semi-supervised deep learning approach for transportation mode identification using gps trajectory data
+        - Semi-supervised deep ensemble learning for travel mode identification
+        - Semi-supervised federated learning for travel mode identification from gps trajectories
+    - Unsupervised Learning
+        - Unsupervised deep learning for gps based transportation mode identification
+    - Limited Data Scenario
+        - Improving transportation mode identification with limited gps trajectories
+        - A framework of travel mode identification fusing deep learning and map-matching algorithm
+    - Unlabeled Data Scenario
+        - S2tul: A semisupervised framework for trajectory-user linking
+    - Cross-Platform Scenarios
+        - Dplink: User identity linkage via deep neural network from heterogeneous mobility data
+        - Egomuil: Enhancing spatio-temporal user identity linkage in location-based social networks with ego-mo hypergraph
+    - Different Data Type Scenarios
+        - Trajectory-user linking via hierarchical spatio-temporal attention networks
 
 ____
 
