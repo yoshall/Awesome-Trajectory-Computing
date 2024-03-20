@@ -336,57 +336,33 @@ ____
 
 ### Location Forecasting
 
+- Traditional Methods
+    - 
+    - 
 - Deep Learning Methods
-    - Next Location Prediction
-        - Deepmove: Predicting human mobility with attentional recurrent networks
-        - Predicting human mobility via variational attention
-        - Deeptransport: Prediction and simulation of human mobility and transportation mode at a citywide level
-        - Location prediction over sparse user mobility traces using rnns
-        - Mobtcast: Leveraging auxiliary trajectory forecasting for human mobility prediction
-        - Artificial neural networks applied to taxi destination prediction
-        - A bilstm-cnn model for predicting users’ next locations based on geotagged social media
-        - A neural network approach to jointly modeling social networks and mobile trajectories
-        - Context-aware deep model for joint mobility and time prediction
-        - Serm: A recurrent model for next location prediction in semantic trajectories
-        - Predicting the next location: A recurrent model with spatial and temporal contexts
-        - Hst-lstm: A hierarchical spatial-temporal long-short term memory network for location prediction
-        - Recurrent marked temporal point processes: Embedding event history to vector
-        - Pre-training context and time aware location embeddings from spatial-temporal trajectories for user next location prediction
-        - Mcn4rec: Multi-level collaborative neural network for next location recommendation
-    - Next POI Recommendation
-        - A survey on deep learning based point-of-interest (poi) recommendations
-        - Point-of-interest recommender systems based on location-based social networks: a survey from an experimental perspective
-    - Unfinished Route Prediction
-        - A survey on service route and time prediction in instant delivery: Taxonomy, progress, and prospects
-        - Package pick-up route prediction via modeling couriers’ spatial-temporal behaviors
-        - Graph2route: A dynamic spatial-temporal graph neural network for pick-up and delivery route prediction
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
 
 ____
 
 ### Traffic Forecasting
 
 - Traditional Methods
-    - Space–time modeling of traffic flow
-    - Vector autoregressive models: specification, estimation, inference, and forecasting
-    - Urban flow prediction from spatiotemporal data using machine learning: A survey
-    - Recent trends in crowd analysis: A review,” Machine Learning with Applications
+    - 
+    - 
 - Deep Learning Methods
-    - Spatio-Temporal Grid
-        - Deep spatio-temporal residual networks for citywide crowd flows prediction
-        - Deep multi-view spatial-temporal network for taxi demand prediction
-        - Spatio-temporal recurrent convolutional networks for citywide short-term crowd flows prediction
-        - Periodic-crn: A convolutional recurrent model for crowd density prediction with recurring periodic patterns
-        - Deepcrowd: A deep model for large-scale citywide crowd density and flow prediction
-        - Urbanfm: Inferring fine-grained urban flows
-        - Revisiting spatial-temporal similarity: A deep learning framework for traffic prediction
-        - Deepurbanevent: A system for predicting citywide crowd dynamics at big events
-        - Promptst: Prompt-enhanced spatio-temporal multi-attribute prediction
-        - Multiattention 3d residual neural network for origin-destination crowd flow prediction
-        - When transfer learning meets crosscity urban flow prediction: spatio-temporal adaptation matters
-    - Spatio-Temporal Graph
-        - Predicting citywide crowd flows in irregular regions using multi-view graph convolutional networks
-        - Temporal multiview graph convolutional networks for citywide traffic volume inference
-        - Mdtp: A multisource deep traffic prediction framework over spatio-temporal trajectory data
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
 
 </details>
 
@@ -539,7 +515,8 @@ ____
 
 - Road-based
     - Learning to estimate the travel time
-    - CoDriver ETA: Combine driver information in estimated time of arrival by driving style learning auxiliary task
+    - CoDriver ETA: Combine driver information in estimated time of arrival by
+    driving style learning auxiliary task
     - DeepIST: Deep image-based spatiotemporal network for travel time estimation
     - HetETA: Heterogeneous information network embedding for estimating time of arrival
     - ConstGAT: Contextual spatial-temporal graph attention network for travel time estimation at baidu maps
@@ -573,18 +550,16 @@ ____
 ### Offline Detection
 
 - Traditional Methods
-    - Trajectory outlier detection: A Partition-and-Detect Framework
+    - 
+    - 
 - Deep Learning Methods
-    - Offline Detection
-        - Anomalous Trajectory Detection using Recurrent Neural Network
-        - Coupled igmmgans with applications to anomaly detection in human mobility data
-        - TripSafe: Retrieving Safety-related Abnormal Trips in Real-time with Trajectory Data
-        - Open anomalous trajectory recognition via probabilistic metric learning
-    - Online Detection
-        - A Fast Trajectory Outlier Detection Approach via Driving Behavior Modeling
-        - Online Anomalous Subtrajectory Detection on Road Networks with Deep Reinforcement Learning
-        - Online Anomalous Trajectory Detection with Deep Generative Sequence Modeling
-        - DeepTEA: Effective and Efficient Online Time-dependent Trajectory Outlier Detection
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
 
 ____
 
@@ -615,32 +590,37 @@ ____
 ### Macro-dynamic
 
 - Traditional Methods
-    - 
-    - 
-- Deep Learning Methods
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+    - A deep gravity model for mobility flows generation
+    - Unraveling the origin of exponential law in intra-urban human mobility Deep Learning Methods
+    - Citywide traffic flow prediction based on multiple gated spatio-temporal convolutional neural networks
+    - Spatiotemporal scenario generation of traffic flow based on LSTM-GAN
+    - TrafficGAN: Network-scale deep traffic prediction with generative adversarial nets
+    - Traffic flow imputation using parallel data and generative adversarial networks
+    - GANs based density distribution privacypreservation on mobility data
+    - Deep multi-view spatial-temporal network for taxi demand prediction
     - 
 
 ____
 
 ### Micro-dynamic
 
-- Traditional Methods
-    - 
-    - 
+
 - Deep Learning Methods
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+    - Large scale GPS trajectory generation using map based on two stage GAN
+    - Deeptransport: Prediction and simulation of human mobility and transportation mode at a citywide level
+    - Deepmove: Predicting human mobility with attentional recurrent networks
+    - Wherenext: a location predictor on trajectory pattern mining
+    - How do you go where? improving next location prediction by learning travel mode information using transformers
+    - A nonparametric generative model for human trajectories
+    - Simulating continuous-time human mobility trajectories
+    - COLA: Crosscity mobility transformer for human trajectory simulation
+    - Difftraj: Generating GPS trajectory with diffusion probabilistic model
+    - Where would I go next? large language models as human mobility predictors
+    - Exploring large language models for human mobility prediction under public events
+    - Learning to simulate human mobility
+    - TrajGAIL: Generating urban vehicle trajectories using generative adversarial imitation learning
+    - Activity trajectory generation via modeling spatiotemporal dynamics
+    - Learning to simulate daily activities via modeling dynamic human needs
 
 </details>
 
@@ -711,6 +691,6 @@ ____
 ____
 
 
-## 😍 Star History
+## Star History 😍
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yoshall/Awesome-Trajectory-Computing&type=Date)](https://star-history.com/#yoshall/Awesome-Trajectory-Computing&Date)
