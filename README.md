@@ -337,49 +337,47 @@ ____
 
 #### Trajectory-related Recommendation
 
-- Traditional Methods
-    - 
-    - 
-- Deep Learning Methods
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-
-____
 
 ##### Travel Recommendation
 
 - Traditional Methods
-    - 
-    - 
+    - A survey of route recommendations: Methods, applications, and opportunities
 - Deep Learning Methods
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+    - Hybrid Type
+        - Learning effective road network representation with hierarchical graph neural networks
+    - Sequential-based
+        - Ldferr: A fuel-efficient route recommendation approach for long-distance driving based on historical trajectories
+        - Progrpgan: Progressive gan for route planning
+        - Personalized path recommendation with specified way-points based on trajectory representations
+        - Personalized long distance fuel-efficient route recommendation through historical trajectories mining
+        - Query2trip: Dual-debiased learning for neural trip recommendation
+    - Graph-based
+        - Dual-grained human mobility learning for location-aware trip recommendation with spatial–temporal graph knowledge fusion
+        - Learning improvement heuristics for solving routing problems
+        - Learning to effectively estimate the travel time for fastest route recommendation
+    - Multi-modal Type
+        - Walking down a different path: route recommendation based on visual and facility based diversity
+        - Multi-modal transportation recommendation with unified route representation  learning
+    - Reinforcement Learning
+        - Spatio-temporal feature fusion for dynamic taxi route recommendation via deep reinforcement learning
+        - Evacuation route recommendation using auto-encoder and markov decision process
 
 ____
 
 ##### Friend Recommendation
 
 - Traditional Methods
-    - 
-    - 
+    - Recommendations in location-based social networks: a survey
+    - Where online friends meet: Social communities in location-based networks
+    - Friend recommendation for location-based mobile social networks
+    - Geo-friends recommendation in gps-based cyber-physical social network
 - Deep Learning Methods
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+    - Revisiting user mobility and social relationships in lbsns: a hypergraph embedding approach
+    - Lbsn2vec++: Heterogeneous hypergraph embedding for location-based social networks
+    - Social link inference via multi view matching network from spatiotemporal trajectories
+    - Trajectory-based social circle inference
+    - Graph structure learning on user mobility data for social relationship inference
+    - Friend recommendation in location based social networks via deep pairwise learning
 
 ____
 
