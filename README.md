@@ -228,6 +228,8 @@ ____
 
 ##### Similarity Measurement
 
+<img src="./Picture/similar_compare.png" width = "600" align=center>
+
 - Traditional Methods
     - Efficient retrieval of similar time sequences under time warping
     - Discovering Similar Multidimensional Trajectories
@@ -263,6 +265,8 @@ ____
         - Self-Supervised Learning-based
             - Trembr: Exploring Road Networks for Trajectory Representation Learning
             - Lightpath: Lightweight and scalable path representation learning
+
+<img src="./Picture/similar_learning_compare.png" width = "900" align=center>
 
 ##### Cluster Analysis
 
@@ -425,7 +429,6 @@ ____
     - Mutual distillation learning network for trajectory-user linking
     - Adversarial mobility learning for human trajectory classification
     - Self-supervised human mobility learning for next location prediction and trajectory classification
-    - 
 
 ____
 
