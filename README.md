@@ -4,7 +4,7 @@
 
 # 🏄‍♂️ Awesome-Trajectory-Computing
 
-Welcome to our carefully curated collection of **Deep Learning Methods and Foundation Models (LLM, LM, FM) for Trajectory Computing (Trajectory Data Mining and Management)** with awesome resources (paper, code, data, too, etc.)! This repository serves as a valuable addition to our comprehensive survey paper. Rest assured, we are committed to consistently updating it to ensure it remains up-to-date and relevant.
+Welcome to our carefully curated collection of **Deep Learning Methods and Foundation Models (LLM, LM, FM) for Trajectory Computing (Trajectory Data Management and Mining)** with awesome resources (paper, code, data, tool, etc.)! This repository serves as a valuable addition to our comprehensive survey paper. Rest assured, we are committed to consistently updating it to ensure it remains up-to-date and relevant.
 
 <img src="./Picture/Trajectory_Overview.gif" width = "900" align=center>
 
@@ -27,7 +27,7 @@ ____
 
 ## 📰 News
 ```
-- 2024.03.19: Latest update of this paper list.
+- 2024.03.19: Successful launch of DL4Traj project! 😊
 ```
 
 ____
@@ -121,19 +121,22 @@ ____
         * [Macro-dynamic](#macro-dynamic)
         * [Micro-dynamic](#micro-dynamic)
     * [Recent advances in LLMs for trajectory mining](#recent-advances-in-llms-for-trajectory-mining)
-    <img src="./Picture/Taxonomy.png" width = "800" align=center>
+
+<img src="./Picture/Taxonomy.png" width = "800" align=center>
 
 ____
 
-### <font color=Blue>Deep Learning for Trajectory Data Management</font> 🔐
+## <font color=SkyBlue>Deep Learning for Trajectory Data Management</font> 🔐
 
-____
 
-#### <font color=Green>Pre-Processing</font>
+<details>
+<summary>
+<font size=4 color=Green>Pre-Processing</font>
+</summary>
 
 <img src="./Picture/pre-process.png" width = "500" align=center>
 
-##### <font color=Orange>Simplification</font>
+#### <font color=Orange>Simplification</font>
 
 - Traditional Methods
     - Batch Mode
@@ -151,7 +154,7 @@ ____
     - Collectively simplifying trajectories in a database: A query accuracy driven approach
 
 
-##### <font color=GrOrangeeen>Recovery</font>
+#### <font color=Orange>Recovery</font>
 
 - Traditional Methods
     - Kinematic interpolation of movement data
@@ -179,7 +182,7 @@ ____
         - Df-drunet: A decoder fusion model for automatic road extraction leveraging remote sensing images and GPS trajectory data
         - Delvmap: Completing residential roads in maps based on couriers’ trajectories and satellite imagery
 
-##### <font color=Orange>Map-Matching</font>
+#### <font color=Orange>Map-Matching</font>
 
 - Traditional Methods
     - Road reduction filtering for GPS-gis navigation
@@ -194,12 +197,16 @@ ____
     - Dmm: Fast map matching for cellular data
     - Map-matching on wireless traffic sensor data with a sequence-to-sequence model
     - Fl-amm: Federated learning augmented map matching with heterogeneous cellular moving trajectories
+</details>
 
 ____
 
-#### <font color=Green>Storage</font>
+<details>
+<summary>
+<font size=4 color=Green>Storage</font>
+</summary>
 
-##### <font color=Orange>Storage Database</font>
+#### <font color=Orange>Storage Database</font>
 
 - Trajectory Management Systems
     - Sharkdb: An in-memory column-oriented trajectory storage
@@ -221,10 +228,14 @@ ____
     - Effectively Learning Spatial Indices
     - The Case for Learned Spatial Indexes
     - X-FIST: Extended Flood Index for Efficient Similarity Search in Massive Trajectory Dataset
+</details>
 
 ____
 
-#### <font color=Green>Analytics</font>
+<details>
+<summary>
+<font size=4 color=Green>Analytics</font>
+</summary>
 
 ##### <font color=Orange>Similarity Measurement</font>
 
@@ -283,9 +294,15 @@ ____
         - Detect: Deep trajectory clustering for mobility-behavior analysis
         - E2dtc: An end to end deep trajectory clustering framework via self-training
 
+</details>
+
 ____
 
-#### <font color=Green>Visualization</font>
+<details>
+<summary>
+<font size=4 color=Green>Visualization</font>
+</summary>
+
 
 - Traditional Methods
     - A descriptive framework for temporal data visualizations based on generalized space-time cubes
@@ -299,13 +316,20 @@ ____
         - Visualization of driving behavior based on hidden feature extraction by using deep learning
         - Deep learning detection of anomalous patterns from bus trajectories for traffic insight analysis
 
+</details>
+
 ____
 
-#### <font color=Green>Recent advances in LLMs for trajectory management</font>
+<details>
+<summary>
+<font size=4 color=Green>Recent advances in LLMs for trajectory management</font>
+</summary>
 
 - Recovery & Enhancement
     - Spatio-temporal storytelling? leveraging generative models for semantic trajectory analysis
     - An exploratory assessment of llm’s potential toward flight trajectory reconstruction analysis
+
+</details>
 
 ____
 
@@ -398,14 +422,14 @@ ____
 
 #### Trajectory-related Classification
 
+<img src="./Picture/classification.png" width = "600" align=center>
+
 - Traditional Methods
     - A survey and comparison of trajectory classification methods
     - Traclass: trajectory classification using hierarchical region-based and trajectory-based clustering
     - Integrating cross-scale analysis in the spatial and temporal domains for classification of behavioral movement
     - Learning transportation mode from raw gps data for geographic applications on the web
     - Revealing the physics of movement: Comparing the similarity of movement characteristics of different types of moving objects
-
-<img src="./Picture/classification.png" width = "600" align=center>
 
 ##### Travel Mode Identification
 
@@ -610,18 +634,17 @@ ____
 
 ### Tools
 
-- [SUMO]()
-- [SafeGraph]()
-- [Cblab]()
-- [PyTrack]()
-- [PyMove]()
-- [TransBigData]()
-- [Traja]()
-- [MovingPandas]()
-- [Scikit-mobility]()
-- [Tracktable]()
-- [Yupi]()
-
+- [SUMO](https://eclipse.dev/sumo)
+- [SafeGraph](https://docs.safegraph.com/docs/welcome)
+- [Cblab](https://github.com/caradryanl/CityBrainLab)
+- [PyTrack](https://github.com/titoghose/PyTrack)
+- [PyMove](https://pymove.readthedocs.io/en/latest)
+- [TransBigData](https://transbigdata.readthedocs.io/)
+- [Traja](https://github.com/traja-team/traja)
+- [MovingPandas](https://github.com/movingpandas/movingpandas)
+- [Scikit-mobility](https://github.com/scikit-mobility/scikit-mobility)
+- [Tracktable](https://github.com/sandialabs/tracktable)
+- [Yupi](https://github.com/yupidevs/yupi)
 
 ____
 
