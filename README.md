@@ -131,14 +131,11 @@ ____
 
 
 <details>
-<summary>
-
-### Pre-Processing
-</summary>
+<summary>Pre-Processing</summary>
 
 <img src="./Picture/pre-process.png" width = "500" align=center>
 
-#### <font color=Orange>Simplification</font>
+### <font color=Orange>Simplification</font>
 
 - Traditional Methods
     - Batch Mode
@@ -156,7 +153,7 @@ ____
     - Collectively simplifying trajectories in a database: A query accuracy driven approach
 
 
-#### <font color=Orange>Recovery</font>
+### <font color=Orange>Recovery</font>
 
 - Traditional Methods
     - Kinematic interpolation of movement data
@@ -184,7 +181,7 @@ ____
         - Df-drunet: A decoder fusion model for automatic road extraction leveraging remote sensing images and GPS trajectory data
         - Delvmap: Completing residential roads in maps based on couriers’ trajectories and satellite imagery
 
-#### <font color=Orange>Map-Matching</font>
+### <font color=Orange>Map-Matching</font>
 
 - Traditional Methods
     - Road reduction filtering for GPS-gis navigation
@@ -204,11 +201,9 @@ ____
 ____
 
 <details>
-<summary>
-<font size=4 color=Green>Storage</font>
-</summary>
+<summary>Storage</summary>
 
-#### <font color=Orange>Storage Database</font>
+### <font color=Orange>Storage Database</font>
 
 - Trajectory Management Systems
     - Sharkdb: An in-memory column-oriented trajectory storage
@@ -219,7 +214,7 @@ ____
     - Vector-based trajectory storage and query for intelligent transport system
     - Ghost: A general framework for high-performance online similarity queries over distributed trajectory streams
 
-##### <font color=Orange>Index & Query</font>
+### <font color=Orange>Index & Query</font>
 
 - Traditional index
     - Trajectory similarity join in spatial networks,
@@ -235,11 +230,9 @@ ____
 ____
 
 <details>
-<summary>
-<font size=4 color=Green>Analytics</font>
-</summary>
+<summary>Analytics</summary>
 
-##### <font color=Orange>Similarity Measurement</font>
+### <font color=Orange>Similarity Measurement</font>
 
 <img src="./Picture/similar_compare.png" width = "600" align=center>
 
@@ -282,7 +275,7 @@ ____
 
 
 
-##### <font color=Orange>Cluster Analysis</font>
+### <font color=Orange>Cluster Analysis</font>
 
 - Traditional Methods
     - A review of moving object trajectory clustering algorithms
@@ -301,9 +294,7 @@ ____
 ____
 
 <details>
-<summary>
-<font size=4 color=Green>Visualization</font>
-</summary>
+<summary>Visualization</summary>
 
 
 - Traditional Methods
@@ -323,9 +314,7 @@ ____
 ____
 
 <details>
-<summary>
-<font size=4 color=Green>Recent advances in LLMs for trajectory management</font>
-</summary>
+<summary>Recent advances in LLMs for trajectory management</summary>
 
 - Recovery & Enhancement
     - Spatio-temporal storytelling? leveraging generative models for semantic trajectory analysis
@@ -335,15 +324,17 @@ ____
 
 ____
 
-### Deep Learning for Trajectory Data Mining 🔍
+## **Deep Learning for Trajectory Data Mining 🔍**
 
 ____
 
-#### Trajectory-related Forecasting
+
+<details>
+<summary>Trajectory-related Forecasting</summary>
 
 <img src="./Picture/forecasting.png" width = "600" align=center>
 
-##### Location Forecasting
+### Location Forecasting
 
 - Traditional Methods
     - 
@@ -359,7 +350,7 @@ ____
 
 ____
 
-##### Traffic Forecasting
+### Traffic Forecasting
 
 - Traditional Methods
     - 
@@ -373,13 +364,17 @@ ____
     - 
     - 
 
+</details>
+
 ____
 
-#### Trajectory-related Recommendation
+
+<details>
+<summary>Trajectory-related Recommendation</summary>
 
 <img src="./Picture/LBSN.png" width = "600" align=center>
 
-##### Travel Recommendation
+### Travel Recommendation
 
 - Traditional Methods
     - A survey of route recommendations: Methods, applications, and opportunities
@@ -405,7 +400,7 @@ ____
 
 ____
 
-##### Friend Recommendation
+### Friend Recommendation
 
 - Traditional Methods
     - Recommendations in location-based social networks: a survey
@@ -420,9 +415,12 @@ ____
     - Graph structure learning on user mobility data for social relationship inference
     - Friend recommendation in location based social networks via deep pairwise learning
 
+</details>
+
 ____
 
-#### Trajectory-related Classification
+<details>
+<summary>Trajectory-related Classification</summary>
 
 <img src="./Picture/classification.png" width = "600" align=center>
 
@@ -433,7 +431,7 @@ ____
     - Learning transportation mode from raw gps data for geographic applications on the web
     - Revealing the physics of movement: Comparing the similarity of movement characteristics of different types of moving objects
 
-##### Travel Mode Identification
+### Travel Mode Identification
 
 - Deep Learning Methods
     - Estimator: An effective and scalable framework for transportation mode classification over trajectories
@@ -452,7 +450,8 @@ ____
 
 ____
 
-##### Trajectory-User Linking
+
+### Trajectory-User Linking
 
 - Deep Learning Methods
     - Identifying human mobility via trajectory embeddings
@@ -464,7 +463,7 @@ ____
 
 ____
 
-##### Other Perspectives
+### Other Perspectives
 
 - Deep Learning Methods
     - Semi-Supervised Learning
@@ -484,13 +483,17 @@ ____
     - Different Data Type Scenarios
         - Trajectory-user linking via hierarchical spatio-temporal attention networks
 
+</details>
+
 ____
 
-#### Travel Time Estimation
+
+<details>
+<summary>Travel Time Estimation</summary>
 
 <img src="./Picture/estimation.png" width = "600" align=center>
 
-##### Traditional Methods
+### Traditional Methods
 - 
     - Historical data based real time prediction of vehicle arrival time
     - A simple baseline for travel time estimation using large-scale trip data
@@ -498,7 +501,7 @@ ____
     - Route travel time estimation using low-frequency floating car data
 
 
-##### Deep Learning Methods 
+### Deep Learning Methods 
 
 - Trajectory-based
     - When will you arrive? estimating travel time based on deep neural networks
@@ -525,8 +528,6 @@ ____
     
 
 
-
-
 - Other Perspectives
     - CatETA: A categorical approximate approach for estimating time of arrival
     - Uncertainty-aware probabilistic travel time prediction for on-demand ride-hailing at didi
@@ -536,12 +537,17 @@ ____
     - MetaER-TTE: An Adaptive Meta-learning Model for En Route Travel Time Estimation
     - Cross-area travel time uncertainty estimation from trajectory data: a federated learning approach
     - Travel time distribution estimation by learning representations over temporal attributed graphs
-    
+
+</details>
+
 ____
 
-#### Anomaly Detection
 
-##### Offline Detection
+<details>
+<summary>Anomaly Detection</summary>
+
+
+### Offline Detection
 
 - Traditional Methods
     - 
@@ -557,7 +563,7 @@ ____
 
 ____
 
-##### Online Detection
+### Online Detection
 
 - Traditional Methods
     - 
@@ -571,13 +577,17 @@ ____
     - 
     - 
 
+</details>
+
 ____
 
-#### Mobility Generation
+
+<details>
+<summary>Mobility Generation</summary>
 
 <img src="./Picture/generation.png" width = "600" align=center>
 
-##### Macro-dynamic
+### Macro-dynamic
 
 - Traditional Methods
     - 
@@ -593,7 +603,7 @@ ____
 
 ____
 
-##### Micro-dynamic
+### Micro-dynamic
 
 - Traditional Methods
     - 
@@ -607,9 +617,13 @@ ____
     - 
     - 
 
+</details>
+
 ____
 
-#### Recent advances in LLMs for trajectory mining
+
+<details>
+<summary>Recent advances in LLMs for trajectory mining</summary>
 
 - Forecasting
     - Where would i go next? large language models as human mobility predictors
@@ -621,6 +635,8 @@ ____
     - Mobilitygpt: Enhanced human mobility modeling with a gpt model
 - Identification
     - Are you being tracked? discover the power of zero-shot trajectory tracing with llms!
+
+</details>
 
 ____
 
