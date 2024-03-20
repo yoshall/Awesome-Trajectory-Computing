@@ -574,16 +574,18 @@ ____
 ### Offline Detection
 
 - Traditional Methods
-    - 
-    - 
+    - Trajectory outlier detection: A Partition-and-Detect Framework
 - Deep Learning Methods
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+    - Offline Detection
+        - Anomalous Trajectory Detection using Recurrent Neural Network
+        - Coupled igmmgans with applications to anomaly detection in human mobility data
+        - TripSafe: Retrieving Safety-related Abnormal Trips in Real-time with Trajectory Data
+        - Open anomalous trajectory recognition via probabilistic metric learning
+    - Online Detection
+        - A Fast Trajectory Outlier Detection Approach via Driving Behavior Modeling
+        - Online Anomalous Subtrajectory Detection on Road Networks with Deep Reinforcement Learning
+        - Online Anomalous Trajectory Detection with Deep Generative Sequence Modeling
+        - DeepTEA: Effective and Efficient Online Time-dependent Trajectory Outlier Detection
 
 ____
 
