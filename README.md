@@ -115,7 +115,7 @@ ____
         * [Macro-dynamic](#macro-dynamic)
         * [Micro-dynamic](#micro-dynamic)
     * [Recent advances in LLMs for trajectory mining](#recent-advances-in-llms-for-trajectory-mining)
-<img src="./Picture/Taxonomy.png" width = "800" align=center>
+    <img src="./Picture/Taxonomy.png" width = "800" align=center>
 
 ____
 
@@ -170,20 +170,20 @@ ____
         - Multimodal deep learning for robust road attribute detection
         - Aerial images meet crowdsourced trajectories: a new approach to robust road extraction
         - Deepdualmapper: A gated fusion network for automatic map extraction using aerial images and trajectories
-        - Df-drunet: A decoder fusion model for automatic road extraction leveraging remote sensing images and gps trajectory data
+        - Df-drunet: A decoder fusion model for automatic road extraction leveraging remote sensing images and GPS trajectory data
         - Delvmap: Completing residential roads in maps based on couriers’ trajectories and satellite imagery
 
 ##### Map-Matching
 
 - Traditional Methods
-    - Road reduction filtering for gps-gis navigation
+    - Road reduction filtering for GPS-gis navigation
     - A general map matching algorithm for transport telematics applications
     - Map-matching in complex urban road networks
     - Fast map matching, an algorithm integrating hidden markov model with precomputation
 - Deep Learning Methods
     - Deepmm: Deep learning based map matching with data augmentation
     - Transformer-based mapmatching model with limited labeled data using transfer-learning approach
-    - L2mm: learning to map matching with deep models for low-quality gps trajectory data
+    - L2mm: learning to map matching with deep models for low-quality GPS trajectory data
     - Graphmm: Graph-based vehicular map matching by leveraging trajectory and road correlations
     - Dmm: Fast map matching for cellular data
     - Map-matching on wireless traffic sensor data with a sequence-to-sequence model
@@ -435,51 +435,55 @@ ____
 
 #### Travel Time Estimation
 
-##### Trajectory-based
+##### Traditional Methods
+- 
+    - Historical data based real time prediction of vehicle arrival time
+    - A simple baseline for travel time estimation using large-scale trip data
+    - HTTP: A new framework for bus travel time prediction based on historical trajectories
+    - Route travel time estimation using low-frequency floating car data
 
-- Traditional Methods
-    - 
-    - 
-- Deep Learning Methods
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
 
-____
+##### Deep Learning Methods 
 
-##### Road-based
+- Trajectory-based
+    - When will you arrive? estimating travel time based on deep neural networks
+    - Traffic speed prediction and congestion source exploration: A deep learning method
+    - Deeptravel: a neural network based travel time estimation model with auxiliary supervision
+    - Multi-task representation learning for travel time estimation,
+    - Context-aware road travel time estimation by coupled tensor decomposition based on trajectory data
+    - MTLM: a multi-task learning model for travel time estimation
+    - TTPNet: A neural network for travel time prediction based on tensor decomposition and graph embedding
+    
 
-- Traditional Methods
-    - 
-    - 
-- Deep Learning Methods
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+- Road-based
+    - Learning to estimate the travel time
+    - CoDriver ETA: Combine driver information in estimated time of arrival by
+    driving style learning auxiliary task
+    - DeepIST: Deep image-based spatiotemporal network for travel time estimation
+    - HetETA: Heterogeneous information network embedding for estimating time of arrival
+    - ConstGAT: Contextual spatial-temporal graph attention network for travel time estimation at baidu maps
+    - CompactETA: A fast inference system for travel time prediction
+    - Road network metric learning for estimated time of arrival
+    - Interpreting trajectories from multiple views: A hierarchical selfattention network for estimating the time of arrival
+    - Dual graph convolution architecture search for travel time estimation
+    - Route travel time estimation on a road network revisited: Heterogeneity, proximity, periodicity and dynamicity
+    
 
-____
 
-##### Other Perspectives
 
-- Traditional Methods
-    - 
-    - 
-- Deep Learning Methods
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+
+- Other Perspectives
+    - CatETA: A categorical approximate approach for estimating time of arrival
+    - Uncertainty-aware probabilistic travel time prediction for on-demand ride-hailing at didi
+    - SSML: Self-supervised meta-learner for en route travel time estimation at baidu maps
+    - Privacy-preserving travel time prediction with uncertainty using GPS trace data
+    - Citywide estimation of travel time distributions with bayesian deep graph learning
+    - MetaER-TTE: An Adaptive Meta-learning Model for En Route Travel Time Estimation
+    - Cross-area travel time uncertainty estimation from trajectory data: a federated learning approach
+    - Travel time distribution estimation by learning representations over temporal attributed graphs
+    
+    
+
 
 ____
 
