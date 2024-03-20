@@ -644,13 +644,17 @@ ____
 
 ____
 
-### Datasets
+<details>
+<summary>Datasets</summary>
 
 <img src="./Picture/datasets.png" width = "800" align=center>
 
+</details>
+
 ____
 
-### Tools
+<details>
+<summary>Tools</summary>
 
 - [SUMO](https://eclipse.dev/sumo)
 - [SafeGraph](https://docs.safegraph.com/docs/welcome)
@@ -664,10 +668,12 @@ ____
 - [Tracktable](https://github.com/sandialabs/tracktable)
 - [Yupi](https://github.com/yupidevs/yupi)
 
+</details>
+
 ____
 
-
-### Other Useful Links
+<details>
+<summary>Other Useful Links</summary>
 
 - [Uber](https://www.uber.com)
 - [DiDi](https://didiglobal.com)
@@ -675,9 +681,11 @@ ____
 - [Baidu Map](https://map.baidu.com)
 - [Cainiao](https://www.cainiao.com)
 
+</details>
+
 ____
 
 
-## Star History
+## Star History 😍
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yoshall/Awesome-Trajectory-Computing&type=Date)](https://star-history.com/#yoshall/Awesome-Trajectory-Computing&Date)
