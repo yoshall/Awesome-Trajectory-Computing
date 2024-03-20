@@ -539,8 +539,7 @@ ____
 
 - Road-based
     - Learning to estimate the travel time
-    - CoDriver ETA: Combine driver information in estimated time of arrival by
-    driving style learning auxiliary task
+    - CoDriver ETA: Combine driver information in estimated time of arrival by driving style learning auxiliary task
     - DeepIST: Deep image-based spatiotemporal network for travel time estimation
     - HetETA: Heterogeneous information network embedding for estimating time of arrival
     - ConstGAT: Contextual spatial-temporal graph attention network for travel time estimation at baidu maps
