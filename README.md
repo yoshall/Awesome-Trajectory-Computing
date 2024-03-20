@@ -125,15 +125,15 @@ ____
 
 ____
 
-### Deep Learning for Trajectory Data Management 🔐
+### <font color=Blue>Deep Learning for Trajectory Data Management</font> 🔐
 
 ____
 
-#### Pre-Processing
+#### <font color=Green>Pre-Processing</font>
 
 <img src="./Picture/pre-process.png" width = "500" align=center>
 
-##### Simplification
+##### <font color=Orange>Simplification</font>
 
 - Traditional Methods
     - Batch Mode
@@ -151,7 +151,7 @@ ____
     - Collectively simplifying trajectories in a database: A query accuracy driven approach
 
 
-##### Recovery
+##### <font color=GrOrangeeen>Recovery</font>
 
 - Traditional Methods
     - Kinematic interpolation of movement data
@@ -179,7 +179,7 @@ ____
         - Df-drunet: A decoder fusion model for automatic road extraction leveraging remote sensing images and GPS trajectory data
         - Delvmap: Completing residential roads in maps based on couriers’ trajectories and satellite imagery
 
-##### Map-Matching
+##### <font color=Orange>Map-Matching</font>
 
 - Traditional Methods
     - Road reduction filtering for GPS-gis navigation
@@ -197,9 +197,9 @@ ____
 
 ____
 
-#### Storage
+#### <font color=Green>Storage</font>
 
-##### Storage Database
+##### <font color=Orange>Storage Database</font>
 
 - Trajectory Management Systems
     - Sharkdb: An in-memory column-oriented trajectory storage
@@ -210,7 +210,7 @@ ____
     - Vector-based trajectory storage and query for intelligent transport system
     - Ghost: A general framework for high-performance online similarity queries over distributed trajectory streams
 
-##### Index & Query
+##### <font color=Orange>Index & Query</font>
 
 - Traditional index
     - Trajectory similarity join in spatial networks,
@@ -224,9 +224,9 @@ ____
 
 ____
 
-#### Analytics
+#### <font color=Green>Analytics</font>
 
-##### Similarity Measurement
+##### <font color=Orange>Similarity Measurement</font>
 
 <img src="./Picture/similar_compare.png" width = "600" align=center>
 
@@ -269,7 +269,7 @@ ____
 
 
 
-##### Cluster Analysis
+##### <font color=Orange>Cluster Analysis</font>
 
 - Traditional Methods
     - A review of moving object trajectory clustering algorithms
@@ -285,7 +285,7 @@ ____
 
 ____
 
-#### Visualization
+#### <font color=Green>Visualization</font>
 
 - Traditional Methods
     - A descriptive framework for temporal data visualizations based on generalized space-time cubes
@@ -301,7 +301,7 @@ ____
 
 ____
 
-#### Recent advances in LLMs for trajectory management
+#### <font color=Green>Recent advances in LLMs for trajectory management</font>
 
 - Recovery & Enhancement
     - Spatio-temporal storytelling? leveraging generative models for semantic trajectory analysis
