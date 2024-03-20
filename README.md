@@ -313,6 +313,8 @@ ____
 
 #### Trajectory-related Forecasting
 
+<img src="./Picture/forecasting.png" width = "600" align=center>
+
 ##### Location Forecasting
 
 - Traditional Methods
@@ -347,6 +349,7 @@ ____
 
 #### Trajectory-related Recommendation
 
+<img src="./Picture/LBSN.png" width = "600" align=center>
 
 ##### Travel Recommendation
 
@@ -399,7 +402,8 @@ ____
     - Integrating cross-scale analysis in the spatial and temporal domains for classification of behavioral movement
     - Learning transportation mode from raw gps data for geographic applications on the web
     - Revealing the physics of movement: Comparing the similarity of movement characteristics of different types of moving objects
-    - 
+
+<img src="./Picture/classification.png" width = "600" align=center>
 
 ##### Travel Mode Identification
 
@@ -456,6 +460,8 @@ ____
 
 #### Travel Time Estimation
 
+<img src="./Picture/estimation.png" width = "600" align=center>
+
 ##### Traditional Methods
 - 
     - Historical data based real time prediction of vehicle arrival time
@@ -503,9 +509,6 @@ ____
     - Cross-area travel time uncertainty estimation from trajectory data: a federated learning approach
     - Travel time distribution estimation by learning representations over temporal attributed graphs
     
-    
-
-
 ____
 
 #### Anomaly Detection
@@ -543,6 +546,8 @@ ____
 ____
 
 #### Mobility Generation
+
+<img src="./Picture/generation.png" width = "600" align=center>
 
 ##### Macro-dynamic
 
