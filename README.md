@@ -507,7 +507,7 @@ ____
     - When will you arrive? estimating travel time based on deep neural networks
     - Traffic speed prediction and congestion source exploration: A deep learning method
     - Deeptravel: a neural network based travel time estimation model with auxiliary supervision
-    - Multi-task representation learning for travel time estimation,
+    - Multi-task representation learning for travel time estimation
     - Context-aware road travel time estimation by coupled tensor decomposition based on trajectory data
     - MTLM: a multi-task learning model for travel time estimation
     - TTPNet: A neural network for travel time prediction based on tensor decomposition and graph embedding
@@ -515,28 +515,32 @@ ____
 
 - Road-based
     - Learning to estimate the travel time
-    - CoDriver ETA: Combine driver information in estimated time of arrival by
-    driving style learning auxiliary task
+    - CoDriver ETA: Combine driver information in estimated time of arrival by driving style learning auxiliary task
     - DeepIST: Deep image-based spatiotemporal network for travel time estimation
-    - HetETA: Heterogeneous information network embedding for estimating time of arrival
-    - ConstGAT: Contextual spatial-temporal graph attention network for travel time estimation at baidu maps
     - CompactETA: A fast inference system for travel time prediction
     - Road network metric learning for estimated time of arrival
-    - Interpreting trajectories from multiple views: A hierarchical selfattention network for estimating the time of arrival
-    - Dual graph convolution architecture search for travel time estimation
-    - Route travel time estimation on a road network revisited: Heterogeneity, proximity, periodicity and dynamicity
+    - Interpreting trajectories from multiple views: A hierarchical self-attention network for estimating the time of arrival
+    - Route travel time estimation on a road network revisited: Heterogeneity, proximity, periodicity and Dynamicity
+    - Graph 
+        - ConstGAT: Contextual spatial-temporal graph attention network for travel time estimation at baidu maps
+        - HetETA: Heterogeneous information network embedding for estimating time of arrival
+        - Dual graph convolution architecture search for travel time estimation
     
 
 
 - Other Perspectives
-    - CatETA: A categorical approximate approach for estimating time of arrival
-    - Uncertainty-aware probabilistic travel time prediction for on-demand ride-hailing at didi
-    - SSML: Self-supervised meta-learner for en route travel time estimation at baidu maps
-    - Privacy-preserving travel time prediction with uncertainty using GPS trace data
-    - Citywide estimation of travel time distributions with bayesian deep graph learning
-    - MetaER-TTE: An Adaptive Meta-learning Model for En Route Travel Time Estimation
-    - Cross-area travel time uncertainty estimation from trajectory data: a federated learning approach
-    - Travel time distribution estimation by learning representations over temporal attributed graphs
+    - En route
+        - SSML: Self-supervised meta-learner for en route travel time estimation at baidu maps
+        - MetaER-TTE: An Adaptive Meta-learning Model for En Route Travel Time Estimation
+    - Uncertainty
+        - Privacy-preserving travel time prediction with uncertainty using GPS trace data
+        - Cross-area travel time uncertainty estimation from trajectory data: a federated learning approach
+    - Classification-based
+        - CatETA: A categorical approximate approach for estimating time of arrival
+        - Uncertainty-aware probabilistic travel time prediction for on-demand ride-hailing at Didi
+    - Travel time distribution
+        - Citywide estimation of travel time distributions with bayesian deep graph learning
+        - Travel time distribution estimation by learning representations over temporal attributed graphs
 
 </details>
 
