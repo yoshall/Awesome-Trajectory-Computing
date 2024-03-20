@@ -610,21 +610,27 @@ ____
 
 
 - Deep Learning Methods
-    - Large scale GPS trajectory generation using map based on two stage GAN
-    - Deeptransport: Prediction and simulation of human mobility and transportation mode at a citywide level
-    - Deepmove: Predicting human mobility with attentional recurrent networks
-    - Wherenext: a location predictor on trajectory pattern mining
-    - How do you go where? improving next location prediction by learning travel mode information using transformers
-    - A nonparametric generative model for human trajectories
-    - Simulating continuous-time human mobility trajectories
-    - COLA: Crosscity mobility transformer for human trajectory simulation
-    - Difftraj: Generating GPS trajectory with diffusion probabilistic model
-    - Where would I go next? large language models as human mobility predictors
-    - Exploring large language models for human mobility prediction under public events
-    - Learning to simulate human mobility
-    - TrajGAIL: Generating urban vehicle trajectories using generative adversarial imitation learning
-    - Activity trajectory generation via modeling spatiotemporal dynamics
-    - Learning to simulate daily activities via modeling dynamic human needs
+    - Grids-based
+        - A nonparametric generative model for human trajectories
+        - Wherenext: a location predictor on trajectory pattern mining
+        - Deeptransport: Prediction and simulation of human mobility and transportation mode at a citywide level
+        - Deepmove: Predicting human mobility with attentional recurrent networks
+        - How do you go where? improving next location prediction by learning travel mode information using transformers
+        - Simulating continuous-time human mobility trajectories
+        - COLA: Crosscity mobility transformer for human trajectory simulation
+        - Activity trajectory generation via modeling spatiotemporal dynamics
+        - Learning to simulate daily activities via modeling dynamic human needs
+        - Where would I go next? large language models as human mobility predictors
+        - Exploring large language models for human mobility prediction under public events
+        - TrajGAIL: Generating urban vehicle trajectories using generative adversarial imitation learning
+    - GPS-based
+        - Large scale GPS trajectory generation using map based on two stage GAN
+        - Generating mobility trajectories with retained data utility
+        - Difftraj: Generating GPS trajectory with diffusion probabilistic model
+        
+    
+    
+    
 
 </details>
 
