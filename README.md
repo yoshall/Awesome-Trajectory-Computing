@@ -237,6 +237,7 @@ ____
     - Computing discrete fr ́ echet distance
     - The computational geometry of comparing shapes
 - Deep Learning Methods
+    - <img src="./Picture/similar_learning_compare.png" width = "800" align=center>
     - Free-Space
         - Supervised Learning-based
             - Computing Trajectory Similarity in Linear Time: A Generic Seed-guided Neural Netric learning approach
@@ -266,13 +267,14 @@ ____
             - Trembr: Exploring Road Networks for Trajectory Representation Learning
             - Lightpath: Lightweight and scalable path representation learning
 
-<img src="./Picture/similar_learning_compare.png" width = "900" align=center>
+
 
 ##### Cluster Analysis
 
 - Traditional Methods
     - A review of moving object trajectory clustering algorithms
 - Deep Learning Methods
+    - <img src="./Picture/cluster.png" width = "800" align=center>
     - Multi-Stage 
         - Trajectory clustering via deep representation learning
         - Trip2vec: a deep embedding approach for clustering and profiling taxi trip purposes
