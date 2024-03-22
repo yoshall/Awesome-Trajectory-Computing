@@ -678,7 +678,288 @@ ____
 <details>
 <summary>Datasets</summary>
 
-<img src="./Picture/datasets.png" width = "800" align=center>
+<!--<img src="./Picture/datasets.png" width = "800" align=center>-->
+
+<table>
+  <tr>
+    <th>Data Category</th>
+    <th>Type</th>
+    <th>Dataset Name</th>
+    <th>Main Area</th>
+    <th>Duration </th>
+   <th>Link</th>
+  </tr>
+  <tr>
+    <td rowspan="16">Continuous GPS traces</td>
+    <td>Human</td>
+    <td>GeoLife</td>
+    <td>Asia</td>
+    <td>4.5 Years</td>
+    <td><a href="https://www.microsoft.com/en-us/download/details.aspx?id=52367" target="_blank">link</a></td>
+  </tr>
+  <tr>
+    <td>Human</td>
+    <td>TMD</td>
+    <td>Italiana</td>
+    <td>31 Hours</td>
+    <td><a href="https://cs.unibo.it/projects/us-tm2017/index.html" target="_blank">link</a></td>
+  </tr>
+  <tr>
+    <td>Human</td>
+    <td>SHL</td>
+    <td>U.K.</td>
+    <td>7 Months</td>
+    <td><a href="http://www.shl-dataset.org/" target="_blank">link</a></td>
+  </tr>
+  <tr>
+    <td>Human</td>
+    <td>OpenStreetMap</td>
+    <td>Global</td>
+    <td>From 2005</td>
+    <td><a href="https://www.openstreetmap.org/traces" target="_blank">link</a></td>
+  </tr>
+  <tr>
+    <td>Human</td>
+    <td>MDC</td>
+    <td>Switzerland</td>
+    <td>3 Years</td>
+    <td><a href="https://www.idiap.ch/en/scientific-research/data/mdc" target="_blank">link</a></td>
+  </tr>
+  <tr>
+    <td>Taxi</td>
+    <td>T-Drive</td>
+    <td>Beijing, China</td>
+    <td>1 Week</td>
+    <td><a href="https://www.microsoft.com/en-us/research/publication/t-drive-trajectory-data-sample/" target="_blank">link</a></td>
+  </tr>
+  <tr>
+    <td>Taxi</td>
+    <td>Porto</td>
+    <td>Porto, Portugal</td>
+    <td>9 Months</td>
+    <td><a href="https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i/data" target="_blank">link</a></td>
+  </tr>
+  <tr>
+    <td>Taxi</td>
+    <td>Taxi-Shanghai</td>
+    <td>Shanghai, China</td>
+    <td>1 Year</td>
+    <td><a href="https://cse.hkust.edu.hk/scrg" target="_blank">link</a></td>
+  </tr>
+  <tr>
+    <td>Taxi</td>
+    <td>DiDi-Chengdu</td>
+    <td>Chengdu, China</td>
+    <td>1 Month</td>
+    <td><a href="https://gaia.didichuxing.com" target="_blank">link</a></td>
+  </tr>
+  <tr>
+    <td>Taxi</td>
+    <td>DiDi-Xi’an</td>
+    <td>Xi’an, China</td>
+    <td>1 Month</td>
+    <td><a href="https://gaia.didichuxing.com" target="_blank">link</a></td>
+  </tr>
+  <tr>
+    <td>Truck</td>
+    <td>Greek</td>
+    <td>Athens, Greece</td>
+    <td>-</td>
+    <td><a href="http://isl.cs.unipi.gr/db/projects/rtreeportal/" target="_blank">link</a></td>
+  </tr>
+  <tr>
+    <td>Hurricane</td>
+    <td>HURDAT</td>
+    <td>Atlantic</td>
+    <td>151 Years</td>
+    <td><a href="https://www.aoml.noaa.gov/hrd/hurdat/Data_Storm.html" target="_blank">link</a></td>
+  </tr>
+  <tr>
+    <td>Delivery</td>
+    <td>Grab-Posisi-L</td>
+    <td>Southeast Asia</td>
+    <td>1 Months</td>
+    <td><a href="https://engineering.grab.com/grab-posisi" target="_blank">link</a></td>
+  </tr>
+  <tr>
+    <td>Vehicle</td>
+    <td>NGSIM</td>
+    <td>USA</td>
+    <td>45 Minutes</td>
+    <td><a href="https://catalog.data.gov/dataset/next-generation-simulation-ngsim-vehicle-trajectories-and-supporting-data" target="_blank">link</a></td>
+  </tr>
+  <tr>
+    <td>Animal</td>
+    <td>Movebank</td>
+    <td>Global</td>
+    <td>Decades</td>
+    <td><a href="https://www.movebank.org/cms/movebank-main" target="_blank">link</a></td>
+  </tr>
+  <tr>
+    <td>Vessel</td>
+    <td>Vessel Traffic</td>
+    <td>USA</td>
+    <td>9 Years</td>
+    <td><a href="https://marinecadastre.gov/AIS/" target="_blank">link</a></td>
+  </tr>
+  <tr>
+    <td rowspan="14">Check-In sequences</td>
+    <td>Human</td>
+    <td>Gowalla</td>
+    <td>Global</td>
+    <td>1.75 Years</td>
+    <td><a href="https://snap.stanford.edu/data/loc-gowalla.html" target="_blank">link</a></td>
+  </tr>
+  <tr>
+    <td>Human</td>
+    <td>Brightkite</td>
+    <td>Global</td>
+    <td>30 Months</td>
+    <td><a href="https://snap.stanford.edu/data/loc-Brightkite.html" target="_blank">link</a></td>
+  </tr>
+  <tr>
+    <td>Human</td>
+    <td>Foursquare-NY</td>
+    <td>New York, USA</td>
+    <td>10 Months</td>
+    <td><a href="https://sites.google.com/site/yangdingqi/home/foursquare-dataset" target="_blank">link</a></td>
+  </tr>
+  <tr>
+    <td>Human</td>
+    <td>Foursquare-TKY</td>
+    <td>Tokyo, Japan</td>
+    <td>10 Months</td>
+    <td><a href="https://sites.google.com/site/yangdingqi/home/foursquare-dataset" target="_blank">link</a></td>
+  </tr>
+  <tr>
+    <td>Human</td>
+    <td>Foursquare-Global</td>
+    <td>Global</td>
+    <td>18 Months</td>
+    <td><a href="https://sites.google.com/site/yangdingqi/home/foursquare-dataset" target="_blank">link</a></td>
+  </tr>
+  <tr>
+    <td>Human</td>
+    <td>Weeplace</td>
+    <td>Global</td>
+    <td>7.7 Years</td>
+    <td><a href="https://www.yongliu.org/datasets/" target="_blank">link</a></td>
+  </tr>
+  <tr>
+    <td>Human</td>
+    <td>Yelp</td>
+    <td>Global</td>
+    <td>15 Years</td>
+    <td><a href="https://www.yelp.com/dataset/" target="_blank">link</a></td>
+  </tr>
+  <tr>
+    <td>Human</td>
+    <td>Instagram</td>
+    <td>New York, USA</td>
+    <td>5.5 Years</td>
+    <td><a href="https://dl.acm.org/doi/10.5555/3304222.3304226" target="_blank">paper</a></td>
+  </tr>
+  <tr>
+    <td>Human</td>
+    <td>GMove</td>
+    <td>2 cities in USA</td>
+    <td>20 Days</td>
+    <td><a href="https://dl.acm.org/doi/10.1145/2939672.2939793" target="_blank">paper</a></td>
+  </tr>
+  <tr>
+    <td>Taxi</td>
+    <td>TLC</td>
+    <td>New York, USA</td>
+    <td>From 2009</td>
+    <td><a href="https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page" target="_blank">link</a></td>
+  </tr>
+  <tr>
+    <td>Bicycle</td>
+    <td>Mobike-Shanghai</td>
+    <td>Shanghai, China</td>
+    <td>2 Weeks</td>
+    <td><a href="https://www.heywhale.com/mw/dataset/5d315ebbcf76a60036e565bf">link</a></td>
+  </tr>
+  <tr>
+    <td>Bicycle</td>
+    <td>Bike-Xiamen</td>
+    <td>Xiamen, China</td>
+    <td>5 Days</td>
+    <td><a href="https://data.xm.gov.cn/contest-series/digit-china-2021">link</a></td>
+  </tr>
+  <tr>
+	<td>Bicycle</td>
+    <td>Citi Bikes</td>
+    <td>New York, USA</td>
+    <td>From 2013</td>
+    <td><a href="https://citibikenyc.com/system-data">link</a></td>
+  </tr>
+  <tr>
+    <td>Delivery</td>
+    <td>LaDe</td>
+    <td>5 cities in China</td>
+    <td>6 Months</td>
+    <td><a href="https://wenhaomin.github.io/LaDe-website/">link</a></td>
+  </tr>
+  <tr>
+    <td rowspan="2">Synthetic traces</td>
+    <td>Taxi</td>
+    <td>SynMob</td>
+    <td>2 cities in China</td>
+    <td>1 Month</td>
+    <td><a href="https://yasoz.github.io/SynMob/">link</a></td>
+  </tr>
+  <tr>
+    <td>Vehicle</td>
+    <td>BerlinMod</td>
+    <td>Berlin, German</td>
+    <td>28 Days</td>
+    <td><a href="https://secondo-database.github.io/BerlinMOD/BerlinMOD.html">link</a></td>
+  </tr>
+  <tr>
+    <td rowspan="6">Other formats of trajectories</td>
+    <td>Crowd Flow</td>
+    <td>COVID19USFlows</td>
+    <td>USA</td>
+    <td>From 2019</td>
+    <td><a href="https://github.com/GeoDS/COVID19USFlows">link</a></td>
+  </tr>
+  <tr>
+    <td>Crowd Flow</td>
+    <td>MIT-Humob2023</td>
+    <td>Japan</td>
+    <td>90 Days</td>
+    <td><a href="https://connection.mit.edu/humob-challenge-2023">link</a></td>
+  </tr>
+  <tr>
+    <td>Crowd Flow</td>
+    <td>BousaiCrowd</td>
+    <td>Japan</td>
+    <td>4 Months</td>
+    <td><a href="https://github.com/deepkashiwa20/DeepCrowd">link</a></td>
+  </tr>
+  <tr>
+    <td>Traffic Flow</td>
+    <td>TaxiBJ</td>
+    <td>Beijing, China</td>
+    <td>17 Months</td>
+    <td><a href="https://github.com/amirkhango/DeepST">link</a></td>
+  </tr>
+  <tr>
+    <td>Traffic Flow</td>
+    <td>BikeNYC</td>
+    <td>New York, USA</td>
+    <td>6 Months</td>
+    <td><a href="https://github.com/amirkhango/DeepST">link</a></td>
+  </tr>
+  <tr>
+    <td>Traffic Flow</td>
+    <td>TaxiBJ21</td>
+    <td>Beijing, China</td>
+    <td>3 Months</td>
+    <td><a href="https://github.com/jwwthu/DL4Traffic/tree/main/TaxiBJ21">link</a></td>
+  </tr>
+</table>
 
 > Here, we plan to host a Google Cloud Drive to collect all trajectory-related datasets for the convenience of researchers. (Coming soon🚀)
 
