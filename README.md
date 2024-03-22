@@ -11,9 +11,11 @@ Welcome to our carefully curated collection of **Deep Learning Methods and Found
 By [Citymind LAB](https://citymind.top) <img src="./Picture/citymind.png" alt="图标" style="width: 108px; height: 20px;">, [HKUST(GZ)](https://www.hkust-gz.edu.cn/) <img src="./Picture/hkust-gz.png" alt="图标" style="width: 20px; height: 20px;">.
 
 Check out our comprehensive tutorial paper:
-> *Deep Learning for Trajectory Data Management and Mining: A Survey and Beyond.* <br/> Wei Chen, Yuxuan Liang†, Yuanshao Zhu, Yanchuan Chang, Kang Luo, Haomin Wen, Lei Li, Yanwei Yu, Qingsong Wen, Chao Chen, Kai Zheng, Yunjun Gao, Xiaofang Zhou, Fellow, IEEE, Yu Zheng, Fellow, IEEE. [[Link](#)]
+> *Deep Learning for Trajectory Data Management and Mining: A Survey and Beyond.* <br/> Wei Chen, Yuxuan Liang†, Yuanshao Zhu, Yanchuan Chang, Kang Luo, Haomin Wen, Lei Li, Yanwei Yu, Qingsong Wen, Chao Chen, Kai Zheng, Yunjun Gao, Xiaofang Zhou, Fellow, IEEE, Yu Zheng, Fellow, IEEE. [[Link](https://arxiv.org/pdf/2403.14151.pdf)]
 
-> **<p align="justify"> Abstract:** Trajectory computing is a pivotal domain encompassing trajectory data management and mining, garnering widespread attention due to its crucial role in various practical applications such as location services, urban traffic, and public safety. Traditional methods, focusing on simplistic spatio-temporal features, face challenges of complex calculations, limited scalability, and inadequate adaptability to real-world complexities. In this paper, we present a comprehensive review of the development and recent advances in deep learning for trajectory computing (DL4Traj). We first define trajectory data and provide a brief overview of widely-used deep learning models. Systematically, we explore deep learning applications in trajectory management (pre-processing, storage, analysis, and visualization) and mining (trajectory-related forecasting, trajectory-related recommendation, trajectory classification, travel time estimation, anomaly detection, and mobility generation). Additionally, we summarize application scenarios, public datasets, and toolkits. Finally, we outline current challenges in DL4Traj research and propose future directions. </p>
+> **<p align="justify"> Abstract:** Trajectory computing is a pivotal domain encompassing trajectory data management and mining, garnering widespread attention due to its crucial role in various practical applications such as location services, urban traffic, and public safety. Traditional methods, focusing on simplistic spatio-temporal features, face challenges of complex calculations, limited scalability, and inadequate adaptability to real-world complexities. In this paper, we present a comprehensive review of the development and recent advances in deep learning for trajectory computing (DL4Traj). We first define trajectory data and provide a brief overview of widely-used deep learning models. Systematically, we explore deep learning applications in trajectory management (pre-processing, storage, analysis, and visualization) and mining (trajectory-related forecasting, trajectory-related recommendation, trajectory classification, travel time estimation, anomaly detection, and mobility generation). Notably, we encapsulate recent advancements in Large Language Models (LLMs) that hold the potential to augment trajectory computing. Additionally, we summarize application scenarios, public datasets, and toolkits. Finally, we outline current challenges in DL4Traj research and propose future directions. </p>
+
+
 
 ***We strongly encourage authors of relevant works to make a pull request and add their paper's information [[here](https://github.com/yoshall/Awesome-Trajectory-Computing/pulls)].***
 
@@ -35,12 +37,11 @@ ____
 
 👉 If you find our work useful in your research, please consider citing 👻:
 ```
-@misc{chen2024deep,
+@article{chen2024deep,
       title={Deep Learning for Trajectory Data Management and Mining: A Survey and Beyond}, 
-      author={Wei Chen, Yuxuan Liang†, Yuanshao Zhu, Yanchuan Chang, Kang Luo, Haomin Wen, Lei Li, Yanwei Yu, Qingsong Wen, Chao Chen, Kai Zheng, Yunjun Gao, Xiaofang Zhou, Yu Zheng},
-      year={2024},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+      author={Wei Chen, Yuxuan Liang, Yuanshao Zhu, Yanchuan Chang, Kang Luo, Haomin Wen, Lei Li, Yanwei Yu, Qingsong Wen, Chao Chen, Kai Zheng, Yunjun Gao, Xiaofang Zhou, Yu Zheng},
+      journal={arXiv preprint arXiv:2403.14151},
+      year={2024}
 }
 ```
 
@@ -60,21 +61,23 @@ ____
 ____
 
 ## 📖 Related Surveys
-
-- Trajectory data mining: an overview [[paper](#)]
-- A survey on trajectory data mining: Techniques and applications [[paper](#)]
-- Trajectory data mining: A review of methods and applications [[paper](#)]
-- A survey on trajectory clustering analysis [[paper](#)]
-- Trajectory data classification: A review [[paper](#)]
-- A comprehensive survey on trajectory-based location prediction [[paper](#)]
-- A survey on trajectory data management, analytics, and learning [[paper](#)]
-- A survey on deep learning for human mobility [[paper](#)]
-- Classifying spatial trajectories [[paper](#)]
-- Traffic prediction using artificial intelligence: review of recent advances and emerging opportunities [[paper](#)]
-- A benchmark of existing tools for outlier detection and cleaning in trajectories [[paper](#)]
-- Spatio-temporal trajectory similarity measures: A comprehensive survey and quantitative study [[paper](#)]
-- Trajectory similarity measurement: An efficiency perspective [[paper](#)]
-- MobilityDL: A review of deep learning from trajectory data [[paper](#)]
+- Computing with Spatial Trajectories [[paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/TrajectoryComputing_Preview.pdf)
+- Trajectory data mining: an overview [[paper](https://dl.acm.org/doi/pdf/10.1145/2743025)]
+- A survey on trajectory data mining: Techniques and applications [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7452339)]
+- Trajectory data mining: A review of methods and applications [[paper](https://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?article=1084&context=josis)]
+- A survey on trajectory clustering analysis [[paper](https://arxiv.org/pdf/1802.06971.pdf)]
+- Trajectory data classification: A review [[paper](https://dl.acm.org/doi/pdf/10.1145/3330138)]
+- A comprehensive survey on trajectory-based location prediction [[paper](https://link.springer.com/article/10.1007/s42044-019-00052-z)]
+- A survey on trajectory data management, analytics, and learning [[paper](https://dl.acm.org/doi/pdf/10.1145/3440207)]
+- A survey on deep learning for human mobility [[paper](https://dl.acm.org/doi/pdf/10.1145/3485125)]
+- Classifying spatial trajectories [[paper](https://arxiv.org/pdf/2209.01322.pdf)]
+- Traffic prediction using artificial intelligence: review of recent advances and emerging opportunities [[paper](https://www.sciencedirect.com/science/article/pii/S0968090X22003345?casa_token=G8k5h8mgbPoAAAAA:F9dJ-LJlP0WhaY83IIeuKbMb2rbUVsl7ZS_EI2x-ynqclVFUvUxvR3aLO9wKmuJtY8KOoN3r2uo)]
+- A benchmark of existing tools for outlier detection and cleaning in trajectories [[paper](https://www.researchsquare.com/article/rs-3356633/v1)]
+- Spatio-temporal trajectory similarity measures: A comprehensive survey and quantitative study [[paper](https://www.computer.org/csdl/journal/tk/5555/01/10275094/1R8pcQ2Casw)]
+- Trajectory similarity measurement: An efficiency perspective [[paper](https://arxiv.org/pdf/2311.00960.pdf)]
+- MobilityDL: A review of deep learning from trajectory data [[paper](https://arxiv.org/pdf/2402.00732.pdf)]
+- Spatio-temporal data mining: A survey of problems and methods [[paper](https://dl.acm.org/doi/pdf/10.1145/3161602)]
+- Deep Learning for Spatio-Temporal Data Mining: A Survey [[paper](https://dl.acm.org/doi/pdf/10.1145/3161602)]
 
 <img src="./Picture/Survey_Compare.png" width = "900" align=center>
 
