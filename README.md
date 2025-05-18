@@ -122,6 +122,8 @@ ____
 >    * [Mobility Generation](#mobility-generation)
 >        * [Macro-dynamic](#macro-dynamic)
 >        * [Micro-dynamic](#micro-dynamic)
+>    * [Multi-modal Trajectory Reserach](#multimodality)
+
 >    * [Recent advances in LLMs for trajectory mining](#recent-advances-in-llms-for-trajectory-mining)
 
 
@@ -355,6 +357,7 @@ ____
         - Recurrent marked temporal point processes: Embedding event history to vector
         - Pre-training context and time aware location embeddings from spatial-temporal trajectories for user next location prediction
         - Mcn4rec: Multi-level collaborative neural network for next location recommendation
+        - Taming the Long Tail in Human Mobility Prediction
     - Next POI Recommendation
         - A survey on deep learning based point-of-interest (poi) recommendations
         - Point-of-interest recommender systems based on location-based social networks: a survey from an experimental perspective
@@ -639,10 +642,20 @@ ____
         - Where would I go next? large language models as human mobility predictors
         - Exploring large language models for human mobility prediction under public events
         - TrajGAIL: Generating urban vehicle trajectories using generative adversarial imitation learning
+        - TrajGDM: A New Trajectory Foundation Model for Simulating Human Mobility
     - GPS-based
         - Large scale GPS trajectory generation using map based on two stage GAN
         - Generating mobility trajectories with retained data utility
         - Difftraj: Generating GPS trajectory with diffusion probabilistic model
+        - ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model
+        - Holistic Semantic Representation for Navigational Trajectory Generation
+        - Seed: Bridging Sequence and Diffusion Models for Road Trajectory Generation
+        - MA2Traj: Diffusion network with multi-attribute aggregation for trajectory generation
+        - GTG: Generalizable Trajectory Generation Model for Urban Mobility
+        - ST-DiffTraj: A Spatiotemporal-Aware Diffusion Model for Trajectory Generation
+        - DiffPath: Generating Road Network based Path with Latent Diffusion Model
+        - Map2Traj: Street Map Piloted Zero-shot Trajectory Generation with Diffusion Model
+
         
     
     
@@ -652,6 +665,15 @@ ____
 
 ____
 
+<details>
+<summary>Multi-modal Trajectory Reserach</summary>
+
+### Multi-modal Trajectory Retrieval
+- Learning Generalized and Flexible Trajectory Models from Omni-Semantic Supervision
+
+</details>
+
+____
 
 <details>
 <summary>Recent advances in LLMs for trajectory mining</summary>
@@ -664,6 +686,7 @@ ____
 - Generation
     - Large language models as urban residents: An llm agent framework for personal mobility generation
     - Mobilitygpt: Enhanced human mobility modeling with a gpt model
+    - Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation
 - Identification
     - Are you being tracked? discover the power of zero-shot trajectory tracing with llms!
 
